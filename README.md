@@ -1,53 +1,65 @@
-# f24-individual-assignment1
-First Individual Assignment.
+# CSC 340 Fall 2024 Individual Assignment 1
+> First collaborative homework assignment.
 
-## Practice with GitHub 
-For this part of the assignment, you will get practice using GitHub in order to collaborate/contribute with other students in the class. We will be using this repository to do that. First, we want to compile a list of hobbies for all of the students in the course. Then, we will dynamically order the compiled list of hobbies from least to most popular.
+This assignment is to make sure you are comfortable using Git. At the end, you will have created your own branch off of a main branch, made your own edits, pushed those edits back to the origin. \
+You will have sent a pull request to have your changes merged with the main branch. If you have already given me your GitHub username, 
+You will receive an invitation to participate in the project via email once I have added you as a collaborator to the GitHub repo. That's when you know you will have permission to push your changes to the GitHub server.
 
-## You need to obtain a copy of this repository to your local computer so you can add your changes, then publish them back to the origin.
-There are two common ways to do so. 
+## Step One: In your OneDrive folder location, create a folder that will serve as a workspace for your CSC340 projects. 
+> Give it an appropriate name, e.g. csc340-workspace.
 
-- A: Clone the repository, create a new branch, make changes there, push the new branch back to the origin if you are an authorized collaborator, create a pull request and have your changes merged.
+## Step Two: Inside the workspace folder, right-click on an empty space and start a Git Bash terminal/Git GUI dialog. 
+> MacOS users can just start a regular terminal.
+> Do not go into any previously created repositories!
 
-- B: Fork the repository to create your own repository off of origin. Clone your own copy, make changes, push them to your fork, then create a pull request to the original repository to have your changes merged. 
-We will use option B. 
+## Step Three: Clone this repository to your local machine.
+    git clone https://github.com/uncg-csc340/f24-individual-assignment1.git
 
-## Step One: Fork the repository
-On GitHub, click on the button for forking this repository to create your own copy to your GitHub profile. Keep the name the same.
+## Step Four: Change directory into the repository you just cloned. 
+    cd f24-individual-assignment1
+> Look for the blue text that says (main)/(master). This shows that you are in a git repository.
 
-## Step Two: Clone the repository to your local directory
-- In your OneDrive location, navigate to your workspace for CSC300X projects.
-- Do not go into any previously created repositories!
-- Create a new folder with the name assignment-1
-- Start up VSCode IDE, close any folders that you may have open by clicking File->Close Folder.
-- Click on the Source Control tab, then clone a repository.
-- Clone your own fork of this repository and open it in Visual Studio Code.
+## Step Five: Create your own branch.
+    git checkout -b [ BRANCH NAME ]
+> where [ BRANCH NAME ] is your first initial and last name, e.g. John Doe would be jdoe, mine is sntini. No brackets!
 
-## Step Three - Make Edits
-- Open the file student_hobbies.txt. Add a hobby to the list of hobbies and include your UNCG ID (the thing before @ on your uncg email address)  in parentheses. 
-- You should also find a hobby that you share with someone else (i.e. a hobby someone else added that you also enjoy). For the hobby you share, you should add your UNCG ID in parentheses, separated by a single space.
-- Based on the number of people who share the hobby, move the line to the appropriate part of the file where the hobbies shared by the most people are at the bottom of the file and the hobbies shared by the fewest number of people are at the top of the file.
+## Step Six: Open the project folder in IntelliJ.
+> Make your edits in the main class. Do not directly edit the about-me.txt file. Create a new User object with your own details following the example. Add your new user to the list. 
+> 
+> Note: This file is public. Do not add any information that you would not want someone to read who might happen upon it.
+>
+> Save your changes.
 
-For example, the student_hobbies.txt file may look like this when you first download it:
+## Step Seven: In GitBash, add the edited files to the staging area.
+    git add Main.java about-me.txt
+    
+## Step Eight: In GitBash, commit your changes to the repository.
+    git commit -m 'a short description of why you are making this commit'
 
-```
-photography (xchen2)
-hiking (sentini)
-rock climbing (ctomsko)
-```
+## Step Nine: In GitBash, pull from the main branch into your branch.
+>More edits may have been made to the document from other users in the time it took you to clone the file and update it.
+>
+>To resolve any potential conflicts and make sure your document is up-to-date, pull from Main again.
 
-Consider a student whose ID is c_stuckey who enjoys languages and also enjoys hiking. After the student has completed this part of the assignment, the file would look as follows:
+    git pull origin main
 
-```
-photography (xchen2)
-rock climbing (ctomsko)
-languages (c_stuckey)
-hiking (sentini c_stuckey)
-```
+> Note, if there are any updates or merge conflicts that have to be resolved, Go to Step six. Edit the file and remove the extra text inserted by the merge conflict.
+> 
+> The file with conflicts will include two versions of the same lines. Each version will be labeled with branch names. When you resolve the conflicts, make sure you do
+> not erase someone else's work in about-me.txt.
+>
+> After you save the file that had conflicts, you will need to make a new commit. Git will usually prompt you to do this.
 
-## When you are done, add, commit and push your changes to your own fork of the repository.
-Use Menu shortcuts, or use the terminal within Visual Studio Code to type in commands.
+## Step Ten: In GitBash, publish your branch to origin.
+    git push origin [ BRANCH NAME ]
 
-## Finally, submit a pull request to the shared repository
-In your own fork, click on Contribute -> Open Pull Request. Before you open the pull request, make sure your fork is up to date with this original repository. 
-If it says you are behind, you will need to merge the original main to your fork main. It's usually a few button clicks but you may need to edit student_hobbies.txt file again to remove the extra text inserted by the merge conflict. In the title of the pull request, include your first and last name as it shows up on the class roster. Create the pull request.
+## Step Eleven: Log into GitHub, go to the repo, and create a Pull Request.
+https://github.com/uncg-csc340/f24-individual-assignment1
+> GitHub will probably prompt you to create a pull request by saying "Compare And Pull Request"
+> 
+> Make sure the compare branch is your own branch, and the base branch is main.
+
+## Final Step: Submit a link to the pull request that you created.
+> Open your pull request and just copy the URL. The link will include the word "pull" in it. Do not submit a link to the general repository.
+> 
+> Your work will get approved and merged so that your changes show up on the main branch.
