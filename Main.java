@@ -12,9 +12,9 @@ public class Main {
 
         User sunny = new User("Sunny Ntini",
                 """
-                        I am a lecturer of Computer Science. I have an MS in Comp Sci from UNCG, and a BS in Computer Science
-                        from Indiana University of Pennsylvania. I like (some) superheroes and puzzles.
-                        Just like most basic people, I like hiking. I also like history tidbits (ask me about my favorite
+                        I am a lecturer of Computer Science. I have an MS in Comp Sci from UNCG, and a BS in Computer
+                        Science from Indiana University of Pennsylvania. I like (some) superheroes and puzzles. Just
+                        like most basic people, I like hiking. I also like history tidbits (ask me about my favorite
                         podcasts). I'm currently reading Failure Is An Option by H. Jon Benjamin (Bob's Burgers)
                         This is the way.
                         """
@@ -24,8 +24,8 @@ public class Main {
         User nandor = new User("Nandor DeLaurentis",
                 """
                         I was a very ferocious warrior in the Ottoman Empire, which meant doing a lot of things. A lot
-                        of pillaging. People would say 'hey please don’t pillage me' and I would say 'nooooo, I’m 
-                        pillaging everyone, you included'. I was relentless. They would call me Nandor The Relentless. 
+                        of pillaging. People would say 'hey please don’t pillage me' and I would say 'nooooo, I’m
+                        pillaging everyone, you included'. I was relentless. They would call me Nandor The Relentless.
                         Because I just never relent.
                         """
         );

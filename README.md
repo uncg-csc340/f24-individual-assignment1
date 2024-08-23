@@ -27,6 +27,7 @@ You will receive an invitation to participate in the project via email once I ha
 > Make your edits in the main class. Do not directly edit the about-me.txt file. Create a new User object with your own details following the examples. Add your new user to the list. 
 >
 > Run the main method. Save your changes.
+> 
 > Note: This file is public. Do not add any information that you would not want someone to read who might happen upon it.
 >
 
