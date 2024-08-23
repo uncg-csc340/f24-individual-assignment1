@@ -31,7 +31,12 @@ public class Main {
         );
         classList.add(nandor);
 
-
+        User matthew = new User("Matthew Ingallinera",
+                """
+                        I am a senior Computer Science majorhere at uncg. I working on history minor at university as well.
+                        I work full time outside of school and love listening to music and watching youtube.
+                        """
+        );
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */
