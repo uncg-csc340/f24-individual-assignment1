@@ -31,7 +31,16 @@ public class Main {
         );
         classList.add(nandor);
 
-
+        User logan = new User("Logan Keiper",
+                """
+                        I am a student of Computer Science (obviously). I enjoy reading philosophy and therefore I am 
+                        getting a minor in philosophy. I love watching most sports and playing some sports, mainly 
+                        soccer and basketball.  LeBron James is my G.O.A.T. in my humble opinion. I enjoy my weekends
+                        by playing games on my PC and spent most of summer trying to beat the DLC of Elden Ring. 
+                        And I was successful a week before school started, just in time!
+                        """
+        );
+        classList.add(logan);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */
