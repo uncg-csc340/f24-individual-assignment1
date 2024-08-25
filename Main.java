@@ -35,6 +35,16 @@ public class Main {
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */
+
+        User amclean = new User("Annica McLean",
+                """
+                        I am currently getting my Computer Science degree form UNCG. I like both listening and 
+                        playing music. One of my favorite ways to pass the time is to sleep. I also enjoy reading 
+                        and the book I am current reading is "The One Thing" by Gary Keller. 
+                        """);
+
+        classList.add(amclean);
+
         writeFile(classList);
     }
 
