@@ -37,6 +37,8 @@ public class Main {
                         I work full time outside of school and love listening to music and watching youtube.
                         """
         );
+
+        classList.add(matthew);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */
