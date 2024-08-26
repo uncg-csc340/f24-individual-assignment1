@@ -32,9 +32,15 @@ public class Main {
         classList.add(nandor);
 
 
-        /*
-        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */
+        User trinity = new User("Trinity Boler",
+                """
+                        Hi! I’m a computer science major set to graduate next semester, and I’m excited for what the
+                        future holds. In my spare time, I love to read, tackle jigsaw puzzles, and do diamond painting.
+                        I’m also currently learning how to crochet, which has been a fun new challenge. When I’m not
+                        studying or crafting, you can find me playing Cult of the Lamb on my Switch.
+                        """
+        );
+        classList.add(trinity);
         writeFile(classList);
     }
 
