@@ -40,9 +40,35 @@ public class Main {
                         """
         );
         classList.add(adam);
+
+        User sam = new User("Sam Clendenin",
+                """
+                        I am Computer Science student at UNCG. I am in my last year and going for my Bachelors degree.
+                        My coding skills arent the best but im trying hard to improve them. I like video games, music, 
+                        and soccer. I hope to learn a lot from this class!
+                        """
+        );
+        classList.add(sam);
+
+        User amclean = new User("Annica McLean",
+                """
+                        I am currently getting my Computer Science degree form UNCG. I like both listening and 
+                        playing music. One of my favorite ways to pass the time is to sleep. I also enjoy reading 
+                        and the book I am current reading is "The One Thing" by Gary Keller. 
+                        """);
+
+        classList.add(amclean);
+
+        User jsao = new User("Jonathan Sao" ,
+                """
+                       I am a undergraduate at UNCG. I like to spend my time looking at code and playing games. Besides
+                       being indoors all day, I also like to workout and play volleyball or go fishing/hiking.
+                       """);
+        classList.add(jsao);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */
+         */                             
         writeFile(classList);
     }
 
