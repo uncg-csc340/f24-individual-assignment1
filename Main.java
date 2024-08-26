@@ -76,6 +76,14 @@ public class Main {
                        """);
         classList.add(jsao);
 
+        User Mogoi = new User("Mogoi Matongo",
+                """
+                        I am Computer Science student at UNCG. I enjoy hanging out with friends and playing sports.
+                        I look forward to learning a lot this semester!
+                        """
+        );
+        classList.add(Mogoi);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */                             
