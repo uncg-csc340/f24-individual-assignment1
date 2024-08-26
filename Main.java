@@ -32,9 +32,12 @@ public class Main {
         classList.add(nandor);
 
 
-        /*
-        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */
+        User jsao = new User("Jonathan Sao" ,
+                """
+                       I am a undergraduate at UNCG. I like to spend my time looking at code and playing games. Besides
+                       being indoors all day, I also like to workout and play volleyball or go fishing/hiking.
+                       """);
+        classList.add(jsao);
         writeFile(classList);
     }
 
