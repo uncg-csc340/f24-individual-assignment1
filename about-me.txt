@@ -43,3 +43,12 @@ Jonathan Sao
 ---------------------------------------------------------
 I am a undergraduate at UNCG. I like to spend my time looking at code and playing games. Besides
 being indoors all day, I also like to workout and play volleyball or go fishing/hiking.
+
+Jonathan Hernandez
+---------------------------------------------------------
+Hello everyone! my name is Jonathan Hernandez. I am currently a senior here at UNCG and I am
+looking forward to learning more about software engineering this semester. Some things i like to
+do on my free time is fix my car if need be, walk my dog, play video games to cool off. I am
+trying to incorporate the gym into my schedule but it looks like ill be very busy this semsester
+with work and school. I am a advance repair agent for Geeksquad/Bestbuy but I am still learning.
+
