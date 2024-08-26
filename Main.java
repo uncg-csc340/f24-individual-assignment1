@@ -31,14 +31,61 @@ public class Main {
         );
         classList.add(nandor);
 
-
-        User jon = new User("Jonathan Hernandez",
+        User ykpa = new User("Y'Vin Kpa",
                 """
-                        Hello everyone! my name is Jonathan Hernandez. I am currently a senior here at UNCG and I am 
+                        I am a student at UNCG majoring in Computer Science. During my free time, I like to read books,
+                        watch films, and learn new things. When I am not home, I like to take my camera with me to
+                        to places and take pictures and videos. In addition, I also like to go fishing, hiking, and do
+                        fun activities with my family or friends.
+                        """
+        );
+        classList.add(ykpa);
+
+        User adam = new User("Adam Cichoski",
+                """
+                        I am a junior in Computer Science at UNCG. I am from Las Vegas, Nevada and lived there until I 
+                        started college. I am now married and I have little free time, but when I do get free time I love
+                        to play Elden Ring or Lies of P. I am currently reading The Hobbit, and will proceed to read 
+                        The Lord of the Rings series when I complete it. 
+                        """
+        );
+        classList.add(adam);
+
+        User sam = new User("Sam Clendenin",
+                """
+                        I am Computer Science student at UNCG. I am in my last year and going for my Bachelors degree.
+                        My coding skills arent the best but im trying hard to improve them. I like video games, music, 
+                        and soccer. I hope to learn a lot from this class!
+                        """
+        );
+        classList.add(sam);
+
+        User amclean = new User("Annica McLean",
+                """
+                        I am currently getting my Computer Science degree form UNCG. I like both listening and 
+                        playing music. One of my favorite ways to pass the time is to sleep. I also enjoy reading 
+                        and the book I am current reading is "The One Thing" by Gary Keller. 
+                        """);
+
+        classList.add(amclean);
+
+        User jsao = new User("Jonathan Sao" ,
+                """
+                       I am a undergraduate at UNCG. I like to spend my time looking at code and playing games. Besides
+                       being indoors all day, I also like to workout and play volleyball or go fishing/hiking.
+                       """);
+        classList.add(jsao);
+
+        /*
+        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
+         */
+        User jon = new User("Jonathan Hernandez" ,
+                """
+                        Hello everyone! my name is Jonathan Hernandez. I am currently a senior here at UNCG and I am
                         looking forward to learning more about software engineering this semester. Some things i like to
                         do on my free time is fix my car if need be, walk my dog, play video games to cool off. I am
                         trying to incorporate the gym into my schedule but it looks like ill be very busy this semsester
-                        with work and school. I am a advance repair agent for Geeksquad/Bestbuy but I am still learning. 
+                        with work and school. I am a advance repair agent for Geeksquad/Bestbuy but I am still learning.
                         """
         );
         classList.add(jon);
