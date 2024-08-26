@@ -31,6 +31,14 @@ public class Main {
         );
         classList.add(nandor);
 
+        User amclean = new User("Annica McLean",
+                """
+                        I am currently getting my Computer Science degree form UNCG. I like both listening and 
+                        playing music. One of my favorite ways to pass the time is to sleep. I also enjoy reading 
+                        and the book I am current reading is "The One Thing" by Gary Keller. 
+                        """);
+
+        classList.add(amclean);
 
         User jsao = new User("Jonathan Sao" ,
                 """
@@ -38,6 +46,10 @@ public class Main {
                        being indoors all day, I also like to workout and play volleyball or go fishing/hiking.
                        """);
         classList.add(jsao);
+
+        /*
+        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
+         */                             
         writeFile(classList);
     }
 
