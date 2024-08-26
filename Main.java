@@ -31,6 +31,16 @@ public class Main {
         );
         classList.add(nandor);
 
+        User ykpa = new User("Y'Vin Kpa",
+                """
+                        I am a student at UNCG majoring in Computer Science. During my free time, I like to read books,
+                        watch films, and learn new things. When I am not home, I like to take my camera with me to
+                        to places and take pictures and videos. In addition, I also like to go fishing, hiking, and do
+                        fun activities with my family or friends.
+                        """
+        );
+        classList.add(ykpa);
+
         User adam = new User("Adam Cichoski",
                 """
                         I am a junior in Computer Science at UNCG. I am from Las Vegas, Nevada and lived there until I 
