@@ -76,6 +76,15 @@ public class Main {
                        """);
         classList.add(jsao);
 
+        User lchristian = new User("Logan Christian" ,
+                """
+                       I am a student at UNCG with the major of Computer Science and a minor in Information Technology. I hold 10 internation titles
+                       for martial arts within the NBL (National Blackbelt League) and I am a second degree blackbelt. I was at one point ranked 17th
+                       internationally for martial arts as well. I also enjoy playing games of any kind board game or video games. I also enjoy time with
+                       my fiancee whom I proposed to on August 4th of this year. My top 3 foods are BBQ Ribs, Sushi, and Street Tacos.
+                       """);
+        classList.add(lchristian);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */                             
