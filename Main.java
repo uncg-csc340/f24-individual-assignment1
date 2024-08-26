@@ -31,7 +31,15 @@ public class Main {
         );
         classList.add(nandor);
 
-
+        User adam = new User("Adam Cichoski",
+                """
+                        I am a junior in Computer Science at UNCG. I am from Las Vegas, Nevada and lived there until I 
+                        started college. I am now married and I have little free time, but when I do get free time I love
+                        to play Elden Ring or Lies of P. I am currently reading The Hobbit, and will proceed to read 
+                        The Lord of the Rings series when I complete it. 
+                        """
+        );
+        classList.add(adam);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */
