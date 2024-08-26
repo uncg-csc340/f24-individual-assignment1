@@ -3,7 +3,7 @@
 
 This assignment is to make sure you are comfortable using Git. At the end, you will have created your own branch off of a main branch, made your own edits, pushed those edits back to the origin. \
 You will have sent a pull request to have your changes merged with the main branch. Be sure to add your GitHub username to the assignment "Give Me Your Github Username" located on this Canvas course. If you have already given me your GitHub username, 
-You will receive an invitation to participate in the project via email once I have added you as a collaborator to the GitHub repo. That's when you know you will have permission to push your changes to the GitHub server.
+You will receive an invitation to participate in the project via email once I have added you as a collaborator to the GitHub repo. That's when you know you will have permission to push your changes to the GitHub server, otherwise your push will be rejected.
 
 ## Step One: In your OneDrive folder location, create a folder that will serve as a workspace for your CSC340 projects. 
 > Give it an appropriate name, e.g. csc340-workspace.
@@ -26,7 +26,7 @@ You will receive an invitation to participate in the project via email once I ha
 ## Step Six: Open the project folder in IntelliJ.
 > Make your edits in the main class. Do not directly edit the about-me.txt file. Create a new User object with your own details following the examples. Add your new user to the list. 
 >
-> Run the main method. Save your changes.
+> Run the main method, this will automatically write to the about-me.txt file. Save your changes.
 > 
 > Note: This file is public. Do not add any information that you would not want someone to read who might happen upon it.
 >
