@@ -31,6 +31,15 @@ public class Main {
         );
         classList.add(nandor);
 
+        User sam = new User("Sam Clendenin",
+                """
+                        I am Computer Science student at UNCG. I am in my last year and going for my Bachelors degree.
+                        My coding skills arent the best but im trying hard to improve them. I like video games, music, 
+                        and soccer. I hope to learn a lot from this class!
+                        """
+        );
+        classList.add(sam);
+
         User amclean = new User("Annica McLean",
                 """
                         I am currently getting my Computer Science degree form UNCG. I like both listening and 
