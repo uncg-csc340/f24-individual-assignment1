@@ -32,9 +32,16 @@ public class Main {
         classList.add(nandor);
 
 
-        /*
-        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */
+        User jon = new User("Jonathan Hernandez",
+                """
+                        Hello everyone! my name is Jonathan Hernandez. I am currently a senior here at UNCG and I am 
+                        looking forward to learning more about software engineering this semester. Some things i like to
+                        do on my free time is fix my car if need be, walk my dog, play video games to cool off. I am
+                        trying to incorporate the gym into my schedule but it looks like ill be very busy this semsester
+                        with work and school. I am a advance repair agent for Geeksquad/Bestbuy but I am still learning. 
+                        """
+        );
+        classList.add(jon);
         writeFile(classList);
     }
 
