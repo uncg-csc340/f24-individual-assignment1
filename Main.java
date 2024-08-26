@@ -84,6 +84,17 @@ public class Main {
         );
         classList.add(Mogoi);
 
+        User jacob = new User("Jacob DeBroder",
+                """
+                        I am a senior Computer Science student at the University of North Carolina at Greensboro. I was born in
+                        Pfafftown, North Carolina. I enjoy playing video games, hanging out with family and friends, watching 
+                        movies and shows, traveling, and eating good food. I also enjoy biology and hope to work in AI or robotics 
+                        in the near future!
+                        """
+        );
+        classList.add(jacob);
+
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */                             

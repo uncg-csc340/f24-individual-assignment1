@@ -49,3 +49,10 @@ Mogoi Matongo
 I am Computer Science student at UNCG. I enjoy hanging out with friends and playing sports.
 I look forward to learning a lot this semester!
 
+Jacob DeBroder
+---------------------------------------------------------
+I am a senior Computer Science student at the University of North Carolina at Greensboro. I was born in
+Pfafftown, North Carolina. I enjoy playing video games, hanging out with family and friends, watching
+movies and shows, traveling, and eating good food. I also enjoy biology and hope to work in AI or robotics
+in the near future!
+
