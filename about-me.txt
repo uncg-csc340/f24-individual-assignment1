@@ -92,3 +92,9 @@ I am a senior Computer Science student at UNCG. I like playing tennis, hanging o
 travelling and spending time with family. Recently I've been reading more books, the books I am currently reading are called
 "Mindset" and "One Hundred Years of Solitude". I am looking forward to this class!
 
+Sreyes Venkat
+---------------------------------------------------------
+I am a computer science student at UNCG and I am currently pursuing my bachelors degree.
+My hobbies include tennis, basketball and video games. I also enjoy the occasional movie
+here and there. My favorite genre of movie is action and comedy.
+

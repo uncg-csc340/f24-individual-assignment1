@@ -141,6 +141,15 @@ public class Main {
                         """
         );
         classList.add(brevelo);
+
+        User svenkat = new User("Sreyes Venkat",
+                """
+                        I am a computer science student at UNCG and I am currently pursuing my bachelors degree.
+                        My hobbies include tennis, basketball and video games. I also enjoy the occasional movie
+                        here and there. My favorite genre of movie is action and comedy.
+                        """
+        );
+        classList.add(svenkat);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
