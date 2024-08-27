@@ -132,6 +132,16 @@ public class Main {
                         """);
 
         classList.add(cmitchell);
+
+        User nhildreth = new User("Natalie Hildreth",
+                """
+                        I am a Computer Science student completing my last year at UNCG. I am also working towards a
+                        minor in Mathematics. In my free time, I video edit on my computer at home. I am looking forward to
+                        this semester and learning more!
+                        """);
+
+        classList.add(nhildreth);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
