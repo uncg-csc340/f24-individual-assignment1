@@ -122,6 +122,16 @@ public class Main {
 
         classList.add(sbarber);
 
+        User cmitchell = new User("Hunter Cain Mitchell",
+                """
+                        My name is Cain and I am a computer science major. I was a transfer student from Forsyth tech community college
+                        I am currently a senior at UNCG and I am excited to hopefully graduate 
+                        in the spring. I live with my fiance and have one dog and one cat.
+                        In my free time, what little I have, I like to play video games, go camping, and fishing. I am excited to learn a lot of practical tools\s
+                        for my future job and I am hopeful this class will provide it
+                        """);
+
+        classList.add(cmitchell);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
