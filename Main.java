@@ -132,6 +132,15 @@ public class Main {
                         """);
 
         classList.add(cmitchell);
+
+        User brevelo = new User("Benjamin Revelo",
+                """
+                        I am a senior Computer Science student at UNCG. I like playing tennis, hanging out with friends, cooking, playing video games,
+                        travelling and spending time with family. Recently I've been reading more books, the books I am currently reading are called 
+                        "Mindset" and "One Hundred Years of Solitude". I am looking forward to this class!
+                        """
+        );
+        classList.add(brevelo);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
