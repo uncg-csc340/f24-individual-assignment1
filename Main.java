@@ -31,6 +31,15 @@ public class Main {
         );
         classList.add(nandor);
 
+        User matthew = new User("Matthew Ingallinera",
+                """
+                        I am a senior Computer Science major here at uncg. I am also working on history minor at university as well.
+                        I work full time outside of school and love listening to music and watching youtube.
+                        """
+        );
+
+        classList.add(matthew);
+      
         User bennett = new User("Bennett Scott",
                 """
                     I am a student of Computer Science pursuing his BS at the University of North Carolina at 
@@ -141,6 +150,7 @@ public class Main {
                         """
         );
         classList.add(brevelo);
+
         User cparsons = new User ("Caden Parsons",
                 """
                         I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming. 
@@ -148,6 +158,7 @@ public class Main {
                         """
         );
         classList.add(cparsons);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
