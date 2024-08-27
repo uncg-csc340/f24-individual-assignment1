@@ -84,6 +84,16 @@ public class Main {
         );
         classList.add(Mogoi);
 
+        User sbarber = new User("Sarah Barber",
+                """
+                        I'm an undergraduate Computer Science major + IT and English minor here at UNCG. I work at the 
+                        UNCG Esports Arena as a PA, and I am currently the president of the burgeoning Game Development Club 
+                        here on campus. I love my 3 cats, The Legend of Zelda, and my anime figure collection!
+                        I'm currently reading "The King in Yellow" and can't wait to finish it-
+                        """);
+
+        classList.add(sbarber);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */                             
