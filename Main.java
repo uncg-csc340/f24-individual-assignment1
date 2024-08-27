@@ -31,6 +31,24 @@ public class Main {
         );
         classList.add(nandor);
 
+        User bennett = new User("Bennett Scott",
+                """
+                    I am a student of Computer Science pursuing his BS at the University of North Carolina at 
+                    Greensboro. I am also an IT Innovations Team intern at AAA, where I design prototypes and build 
+                    websites. It's my duty to write software that is optimized, efficient, and useful to the 
+                    end-user. I truly believe in the Unix philosophy, which is to avoid complexity in software
+                    projects by building specific applications that are each designed to solve one specific problem 
+                    well, rather than filling them with bloat by trying to solve multiple problems at once. Software 
+                    I am a student of Computer Science pursuing his BS at the University of North Carolina at 
+                    development is my true calling; I want to build as many applications as I can in my lifetime.
+                    One day, I want to be able to confidently see myself as one of the new-age architects of digital 
+                    spaces that we call software engineers.
+                        
+                    I also like playing Dungeons & Dragons.
+                    """
+        );
+        classList.add(bennett);
+
         User ykpa = new User("Y'Vin Kpa",
                 """
                         I am a student at UNCG majoring in Computer Science. During my free time, I like to read books,
@@ -116,7 +134,7 @@ public class Main {
 
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */                             
+         */     
         writeFile(classList);
     }
 
