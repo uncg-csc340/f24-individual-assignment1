@@ -35,6 +35,15 @@ public class Main {
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */
+
+        User arsal = new User("Arsal Zubair",
+                """
+                        I am a student of UNCG. I am studying Computer Science currently in my Senior year. 
+                        I like playing video games, like valorant. I enjoy reading and much more.
+                        
+                        """
+        );
+        classList.add(arsal);
         writeFile(classList);
     }
 
