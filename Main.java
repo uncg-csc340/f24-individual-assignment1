@@ -150,7 +150,15 @@ public class Main {
                         """
         );
         classList.add(brevelo);
-                                  
+
+        User cparsons = new User ("Caden Parsons",
+                """
+                        I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming. 
+                        I am trying to work my way to being a game developer.
+                        """
+        );
+        classList.add(cparsons);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
