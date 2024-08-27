@@ -104,6 +104,16 @@ public class Main {
 
         classList.add(sbarber);
 
+        User tchurch = new User("Trevor Church",
+                """
+                        I'm a transfer student majoring in Computer Science at UNCG. I like sound design, playing keyboard/synthesizers,
+                        speedrunning super mario 64, and old cars. I have a 1998 M3 and a 3 year old cat named Kozart,
+                        and they are my two prized possessions. I'm not big on casual reading, just because I have so many other things
+                        I'm always focused on. I'm excited to learn a lot from this class!
+                        """);
+
+        classList.add(tchurch);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */                             
