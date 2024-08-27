@@ -1,3 +1,4 @@
+
 Sunny Ntini
 ---------------------------------------------------------
 I am a lecturer of Computer Science. I have an MS in Comp Sci from UNCG, and a BS in Computer
@@ -77,3 +78,12 @@ I'm an undergraduate Computer Science major + IT and English minor here at UNCG.
 UNCG Esports Arena as a PA, and I am currently the president of the burgeoning Game Development Club
 here on campus. I love my 3 cats, The Legend of Zelda, and my anime figure collection!
 I'm currently reading "The King in Yellow" and can't wait to finish it-
+
+Hunter Cain Mitchell
+---------------------------------------------------------
+My name is Cain and I am a computer science major. I was a transfer student from Forsyth tech community college
+I am currently a senior at UNCG and I am excited to hopefully graduate
+in the spring. I live with my fiance and have one dog and one cat.
+In my free time, what little I have, I like to play video games, go camping, and fishing. I am excited to learn a lot of practical tools 
+for my future job and I am hopeful this class will provide it
+
