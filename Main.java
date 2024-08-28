@@ -184,6 +184,13 @@ public class Main {
         );
         classList.add(viet);
 
+        User Marcel = new User ( "Marcel Kongozo" ,
+        """
+        I am a junior CS student. I love to play soccer and video games. 
+        I am interested in this course as Cyber Security is one of the fields that I am aspiring to be in after I graduate
+        """
+        );
+        classList.add(Marcel);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
