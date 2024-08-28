@@ -159,9 +159,14 @@ public class Main {
         );
         classList.add(cparsons);
 
-        /*
-        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */     
+        User jmchugh = new User ("Joscelyn McHugh",
+                """
+                        I am a senior at UNCG in the Computer Science program. I work part time as a Supervisor. I like to program and I am particularly interested in web development. 
+                        I can't wait to further my education in the work force.
+                        """);
+
+        classList.add(jmchugh);
+
         writeFile(classList);
     }
 
