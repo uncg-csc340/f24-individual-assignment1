@@ -10,6 +10,16 @@ public class Main {
     public static void main(String[] args) {
         List<User> classList = new ArrayList<>();
 
+        User gia = new User("Gia Nguyen",
+                """
+                        I am also called G and an undergrad student of UNCG for Computer Science. There's nothing 
+                        exciting about me except I love sharing with people what I learn. I also garden and play 
+                        music for fun.
+                         
+                        """
+        );
+        classList.add(gia);
+
         User sunny = new User("Sunny Ntini",
                 """
                         I am a lecturer of Computer Science. I have an MS in Comp Sci from UNCG, and a BS in Computer
