@@ -31,6 +31,33 @@ public class Main {
         );
         classList.add(nandor);
 
+        User matthew = new User("Matthew Ingallinera",
+                """
+                        I am a senior Computer Science major here at uncg. I am also working on history minor at university as well.
+                        I work full time outside of school and love listening to music and watching youtube.
+                        """
+        );
+
+        classList.add(matthew);
+      
+        User bennett = new User("Bennett Scott",
+                """
+                    I am a student of Computer Science pursuing his BS at the University of North Carolina at 
+                    Greensboro. I am also an IT Innovations Team intern at AAA, where I design prototypes and build 
+                    websites. It's my duty to write software that is optimized, efficient, and useful to the 
+                    end-user. I truly believe in the Unix philosophy, which is to avoid complexity in software
+                    projects by building specific applications that are each designed to solve one specific problem 
+                    well, rather than filling them with bloat by trying to solve multiple problems at once. Software 
+                    I am a student of Computer Science pursuing his BS at the University of North Carolina at 
+                    development is my true calling; I want to build as many applications as I can in my lifetime.
+                    One day, I want to be able to confidently see myself as one of the new-age architects of digital 
+                    spaces that we call software engineers.
+                        
+                    I also like playing Dungeons & Dragons.
+                    """
+        );
+        classList.add(bennett);
+
         User ykpa = new User("Y'Vin Kpa",
                 """
                         I am a student at UNCG majoring in Computer Science. During my free time, I like to read books,
@@ -110,9 +137,54 @@ public class Main {
                        """);
         classList.add(ryadav);
 
+        User cmitchell = new User("Hunter Cain Mitchell",
+                """
+                        My name is Cain and I am a computer science major. I was a transfer student from Forsyth tech community college
+                        I am currently a senior at UNCG and I am excited to hopefully graduate 
+                        in the spring. I live with my fiance and have one dog and one cat.
+                        In my free time, what little I have, I like to play video games, go camping, and fishing. I am excited to learn a lot of practical tools\s
+                        for my future job and I am hopeful this class will provide it
+                        """);
+
+        classList.add(cmitchell);
+
+        User brevelo = new User("Benjamin Revelo",
+                """
+                        I am a senior Computer Science student at UNCG. I like playing tennis, hanging out with friends, cooking, playing video games,
+                        travelling and spending time with family. Recently I've been reading more books, the books I am currently reading are called 
+                        "Mindset" and "One Hundred Years of Solitude". I am looking forward to this class!
+                        """
+        );
+        classList.add(brevelo);
+
+        User cparsons = new User ("Caden Parsons",
+                """
+                        I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming. 
+                        I am trying to work my way to being a game developer. 
+                        
+                        """
+        );
+        classList.add(cparsons);
+
+        User jvarona = new User("Jahsiyah Varona",
+                """
+                        I am a senior computer science student at UNCG. I love learning new things, trading crypto, and working out. i want to pursue a career in cybersecurity. 
+                        """
+        );
+        classList.add(jvarona);
+
+        User richard = new User("Richard Antwi-Bediako",
+                """
+                        I am a senior  Computer Science student. I enjoy listening to music, spending time with family and playing video games.
+                        I am also aspiring to work as a full stack engineer.
+                        I'm enthusiastic about learning during this course.
+                        """
+        );
+        classList.add(richard);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */                             
+         */     
         writeFile(classList);
     }
 
