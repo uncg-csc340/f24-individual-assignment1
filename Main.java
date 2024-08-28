@@ -210,6 +210,16 @@ public class Main {
         );
         classList.add(albert);
 
+        User ctuttle = new User("Camden Rivers Tuttle",
+                """
+                        My name is Camden, an undergrad computer science major and math minor and I am junior at UNCG. This semester I'm planning on working at the
+                        math help center. Outside of school, I am very into music, both writing and listening. I play guitar
+                        and bass, I hope to finish an album soon (only took 5 years). I have also been reading a lot recently, just finished the
+                        Stormlight archive series and I'm waiting for the next book, in the meantime I'm reading the Wheel of Time series.
+                        """);
+
+        classList.add(ctuttle);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
