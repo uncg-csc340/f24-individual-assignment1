@@ -160,6 +160,13 @@ public class Main {
         );
         classList.add(cparsons);
 
+        User jvarona = new User("Jahsiyah Varona",
+                """
+                        I am a senior computer science student at UNCG. I love learning new things, trading crypto, and working out. i want to pursue a career in cybersecurity. 
+                        """
+        );
+        classList.add(jvarona);
+
         User richard = new User("Richard Antwi-Bediako",
                 """
                         I am a senior  Computer Science student. I enjoy listening to music, spending time with family and playing video games.
