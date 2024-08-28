@@ -184,6 +184,15 @@ public class Main {
         );
         classList.add(viet);
 
+        User dalton = new User("Dalton Blume",
+                """
+                        I am a senior Computer Science student. I love playing with my dog named Banjo, playing video games, and
+                        playing guitar. I also enjoy playing and watching sports including basketball and football. I have worked
+                        several different jobs before going back to school including an HVAC technician and a Car Salesman.
+                        """
+        );
+        classList.add(dalton);
+
         User albert = new User("Albert Lusk",
                 """
                         I am a senior attending UNCG studying computer science and statistics. I enjoy skating around
