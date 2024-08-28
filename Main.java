@@ -175,6 +175,10 @@ public class Main {
                         """
         );
         classList.add(richard);
+        User nngo = new User("Nhung Ngo",
+                """
+                        I am a junior computer science student at UNCG.""");
+        classList.add(nngo);
 
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
