@@ -159,6 +159,13 @@ public class Main {
         );
         classList.add(cparsons);
 
+        User jvarona = new User("Jahsiyah Varona",
+                """
+                        I am a senior computer science student at UNCG. I love learning new things, trading crypto, and working out. i want to pursue a career in cybersecurity. 
+                        """
+        );
+        classList.add(jvarona);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
