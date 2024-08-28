@@ -1,4 +1,3 @@
-
 Sunny Ntini
 ---------------------------------------------------------
 I am a lecturer of Computer Science. I have an MS in Comp Sci from UNCG, and a BS in Computer
@@ -13,6 +12,11 @@ I was a very ferocious warrior in the Ottoman Empire, which meant doing a lot of
 of pillaging. People would say 'hey please don’t pillage me' and I would say 'nooooo, I’m
 pillaging everyone, you included'. I was relentless. They would call me Nandor The Relentless.
 Because I just never relent.
+
+Matthew Ingallinera
+---------------------------------------------------------
+I am a senior Computer Science major here at uncg. I am also working on history minor at university as well.
+I work full time outside of school and love listening to music and watching youtube.
 
 Bennett Scott
 ---------------------------------------------------------
@@ -86,4 +90,31 @@ I am currently a senior at UNCG and I am excited to hopefully graduate
 in the spring. I live with my fiance and have one dog and one cat.
 In my free time, what little I have, I like to play video games, go camping, and fishing. I am excited to learn a lot of practical tools 
 for my future job and I am hopeful this class will provide it
+
+Benjamin Revelo
+---------------------------------------------------------
+I am a senior Computer Science student at UNCG. I like playing tennis, hanging out with friends, cooking, playing video games,
+travelling and spending time with family. Recently I've been reading more books, the books I am currently reading are called
+"Mindset" and "One Hundred Years of Solitude". I am looking forward to this class!
+
+Caden Parsons
+---------------------------------------------------------
+I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming.
+I am trying to work my way to being a game developer.
+
+
+Jahsiyah Varona
+---------------------------------------------------------
+I am a senior computer science student at UNCG. I love learning new things, trading crypto, and working out. i want to pursue a career in cybersecurity.
+
+Richard Antwi-Bediako
+---------------------------------------------------------
+I am a senior  Computer Science student. I enjoy listening to music, spending time with family and playing video games.
+I am also aspiring to work as a full stack engineer.
+I'm enthusiastic about learning during this course.
+
+Viet Anh My Nguyen
+---------------------------------------------------------
+I am a senior CS student. I love play video and like to learn anything'
+relate to computer. I am also interested in cyber security beside programming
 
