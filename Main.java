@@ -193,6 +193,15 @@ public class Main {
         );
         classList.add(dalton);
 
+        User albert = new User("Albert Lusk",
+                """
+                        I am a senior attending UNCG studying computer science and statistics. I enjoy skating around
+                        campus and playing video games in my free time. I want to study data science and machine learning
+                        with my 2 degrees once I graduate.
+                        """
+        );
+        classList.add(albert);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
