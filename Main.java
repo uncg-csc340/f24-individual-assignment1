@@ -176,6 +176,14 @@ public class Main {
         );
         classList.add(richard);
 
+        User nngo = new User("Nhung Ngo",
+                """
+                        I am a senior computer science student at UNCG. I enjoy solving problems and working with code.
+                        I love traveling and exploring new place, which help me stay inspired.
+                        """
+        );
+        classList.add(nngo);
+
         User viet = new User("Viet Anh My Nguyen" ,
                 """
                         I am a senior CS student. I love play video and like to learn anything'
@@ -183,6 +191,15 @@ public class Main {
                         """
         );
         classList.add(viet);
+
+        User dalton = new User("Dalton Blume",
+                """
+                        I am a senior Computer Science student. I love playing with my dog named Banjo, playing video games, and
+                        playing guitar. I also enjoy playing and watching sports including basketball and football. I have worked
+                        several different jobs before going back to school including an HVAC technician and a Car Salesman.
+                        """
+        );
+        classList.add(dalton);
 
         User albert = new User("Albert Lusk",
                 """

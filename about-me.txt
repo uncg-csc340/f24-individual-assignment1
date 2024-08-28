@@ -113,10 +113,21 @@ I am a senior  Computer Science student. I enjoy listening to music, spending ti
 I am also aspiring to work as a full stack engineer.
 I'm enthusiastic about learning during this course.
 
+Nhung Ngo
+---------------------------------------------------------
+I am a senior computer science student at UNCG. I enjoy solving problems and working with code.
+I love traveling and exploring new place, which help me stay inspired.
+
 Viet Anh My Nguyen
 ---------------------------------------------------------
 I am a senior CS student. I love play video and like to learn anything'
 relate to computer. I am also interested in cyber security beside programming
+
+Dalton Blume
+---------------------------------------------------------
+I am a senior Computer Science student. I love playing with my dog named Banjo, playing video games, and
+playing guitar. I also enjoy playing and watching sports including basketball and football. I have worked
+several different jobs before going back to school including an HVAC technician and a Car Salesman.
 
 Albert Lusk
 ---------------------------------------------------------
@@ -130,4 +141,3 @@ My name is Camden, an undergrad computer science major and math minor and I am j
 math help center. Outside of school, I am very into music, both writing and listening. I play guitar
 and bass, I hope to finish an album soon (only took 5 years). I have also been reading a lot recently, just finished the
 Stormlight archive series and I'm waiting for the next book, in the meantime I'm reading the Wheel of Time series.
-
