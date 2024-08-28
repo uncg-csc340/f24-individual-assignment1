@@ -132,6 +132,17 @@ public class Main {
                         """);
 
         classList.add(cmitchell);
+
+        User ggrevenstuk = new User("Gerrit Grevenstuk",
+                """
+                        My name is Gerrit Grevenstuk. I am a computer science major and Navy veteran. 
+                        I am currently a junior and my current plans are to get an internship next Summer and graduate next Fall. 
+                        I live with my wife and two cats in Mebane, NC. 
+                        In my free time I like to play video games and I recently started playing pickleball."""
+        );
+
+        classList.add(ggrevenstuk);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
