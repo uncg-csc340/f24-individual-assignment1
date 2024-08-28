@@ -154,7 +154,8 @@ public class Main {
         User cparsons = new User ("Caden Parsons",
                 """
                         I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming. 
-                        I am trying to work my way to being a game developer.
+                        I am trying to work my way to being a game developer. 
+                        
                         """
         );
         classList.add(cparsons);
@@ -165,6 +166,15 @@ public class Main {
                         """
         );
         classList.add(jvarona);
+
+        User richard = new User("Richard Antwi-Bediako",
+                """
+                        I am a senior  Computer Science student. I enjoy listening to music, spending time with family and playing video games.
+                        I am also aspiring to work as a full stack engineer.
+                        I'm enthusiastic about learning during this course.
+                        """
+        );
+        classList.add(richard);
 
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
