@@ -103,6 +103,12 @@ public class Main {
                         """);
 
         classList.add(sbarber);
+        User ryadav = new User("Rahul Yadav" ,
+                """
+                       I am an undergraduate computer science major at UNCG. I like spending my free time
+                       playing video games, working out,and reading manga.  
+                       """);
+        classList.add(ryadav);
 
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
