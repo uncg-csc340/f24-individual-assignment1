@@ -184,6 +184,14 @@ public class Main {
         );
         classList.add(viet);
 
+        User devon = new User("Devon Moskowitz" ,
+                """
+                        I am a senior CS student. I like to play tennis and learn computer science'
+                        I chose computer science because it has been a passion of mine since I was young
+                        """
+        );
+        classList.add(devon);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
