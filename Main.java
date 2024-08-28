@@ -176,6 +176,14 @@ public class Main {
         );
         classList.add(richard);
 
+        User viet = new User("Viet Anh My Nguyen" ,
+                """
+                        I am a senior CS student. I love play video and like to learn anything'
+                        relate to computer. I am also interested in cyber security beside programming
+                        """
+        );
+        classList.add(viet);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
