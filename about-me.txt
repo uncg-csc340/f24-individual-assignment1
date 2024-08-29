@@ -1,4 +1,3 @@
-
 Sunny Ntini
 ---------------------------------------------------------
 I am a lecturer of Computer Science. I have an MS in Comp Sci from UNCG, and a BS in Computer
@@ -86,4 +85,11 @@ I am currently a senior at UNCG and I am excited to hopefully graduate
 in the spring. I live with my fiance and have one dog and one cat.
 In my free time, what little I have, I like to play video games, go camping, and fishing. I am excited to learn a lot of practical tools 
 for my future job and I am hopeful this class will provide it
+
+Ross Dezarn
+---------------------------------------------------------
+Hi I'm Ross Dezarn, I am an  computer science major here at UNCG. When I'm not working on school projects I am
+probably working with my family's business or on some personal projects. I too like video games and reading, and
+I also like cooking and writing. Lately I've been spending more time listening to audiobooks, as it works better
+with my commute, and just got done rereading the collective works of HG Wells.
 
