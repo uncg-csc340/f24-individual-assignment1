@@ -220,6 +220,18 @@ public class Main {
 
         classList.add(ctuttle);
 
+        User blooney = new User("Brandon Looney",
+                """
+                        My name is Brandon Looney. I transferred to UNCG from GTCC to get a bachelor's degree in Computer Science.
+                        I live with my parents and little brother. I basically babysit my brother whenever my parents are out of the house.
+                        I used to play electric guitar in middle school, but I haven's played much recently.
+                        In my free time, I normally watch YouTube or play games on my computer. When I'm with friends, we normally play Super Smash Bros. Ultimate or Mario Kart.
+                        I'm still not sure what I want to do after I get my degree, but I hope I can find something while I'm at still at UNCG.
+                        """
+        );
+        classList.add(blooney);
+
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
