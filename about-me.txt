@@ -13,6 +13,14 @@ of pillaging. People would say 'hey please don’t pillage me' and I would say '
 pillaging everyone, you included'. I was relentless. They would call me Nandor The Relentless.
 Because I just never relent.
 
+<<<<<<< HEAD
+Thanh Van Thai
+---------------------------------------------------------
+Hi everyone, I'm Van Thai, a Computer Science major with a passion for solving problems and building cool stuff.
+I am from VietNam and I have been in US for 6 years. I graduated from Forsyth Tech Community College about 2 years ago.
+I love soccer and my favorite soccer player is Messi.
+
+=======
 Matthew Ingallinera
 ---------------------------------------------------------
 I am a senior Computer Science major here at uncg. I am also working on history minor at university as well.
@@ -162,3 +170,4 @@ I live with my parents and little brother. I basically babysit my brother whenev
 I used to play electric guitar in middle school, but I haven's played much recently.
 In my free time, I normally watch YouTube or play games on my computer. When I'm with friends, we normally play Super Smash Bros. Ultimate or Mario Kart.
 I'm still not sure what I want to do after I get my degree, but I hope I can find something while I'm at still at UNCG.
+>>>>>>> 3b9facd6ae3a058ff6808d5748b0ca866373160d

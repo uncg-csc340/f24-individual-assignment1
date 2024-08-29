@@ -30,6 +30,15 @@ public class Main {
                         """
         );
         classList.add(nandor);
+        User tthai = new User("Thanh Van Thai",
+                """
+                Hi everyone, I'm Van Thai, a Computer Science major with a passion for solving problems and building cool stuff.
+                I am from VietNam and I have been in US for 6 years. I graduated from Forsyth Tech Community College about 2 years ago.
+                I love soccer and my favorite soccer player is Messi.
+                """
+        );
+        classList.add(tthai);
+
 
         User matthew = new User("Matthew Ingallinera",
                 """
