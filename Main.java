@@ -249,6 +249,21 @@ public class Main {
         );
         classList.add(blooney);
 
+        User avery = new User("Avery Killian",
+                """
+                        My name is Avery Killian, I am an early college graduate from Davidson Davie County Early College High School.
+                        I live with my girlfriend and her parents along with our two CockerSpaniel puppies and her cats. 
+                        I am a computer science major here at UNCG although I have not yet found the spark for a specific category of programming,
+                        I love to write code/problem solve and nothing beats the feeling of getting a project to run just right after hours of work. 
+                        I work part time at walmart pushing carts and when I can I workout at the gym or play video games with friends.
+                        I am currently working on lining up jobs after I graduate such as working for Bank of America under my uncle as a programmer, 
+                        or maybe an IT help. If that doesn't pan out I plan to try as a contractor of sorts for programming or getting a job with my dad
+                        at Honda Jet, helping with their codes or tech problems. 
+                        """
+        );
+        classList.add(avery);
+
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
