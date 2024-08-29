@@ -76,9 +76,13 @@ public class Main {
                        """);
         classList.add(jsao);
 
-        /*
-        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */                             
+        User lchristian = new User("Logan Christian" ,
+                """
+                       I am an undergaduate at UNCG majoring in Computer Science with a minor in Information Technology. I have earned 10 international
+                       titles for martial arts within the NBL (National Blackbelt League). I am a second degree blackbelt, I also enjoy fishing and playing games of any kind.
+                       I recently got engaged to my wonder fiancee on August 3rd of this year.
+                       """);
+        classList.add(lchristian);
         writeFile(classList);
     }
 
