@@ -268,9 +268,19 @@ public class Main {
                         """
         );
         classList.add(Jasiara);
+
+        User jIsler = new User("Jason Isler",
+                """
+                        Hello my name is Jason Isler and am in my fourth year of studying computer science. 
+                        I enjoy watching movies and playing games with my friends outside of school.
+                        I am taking computer science because computers have always interested me, and years ago I started to learn about programming. 
+                        I hope to either become a software engineer or a game developer after I graduate from UNCG.
+                        """
+        );
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */  
+         */
+
         writeFile(classList);
     }
 
