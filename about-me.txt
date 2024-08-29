@@ -176,3 +176,7 @@ Jasiara Mayes
 Hello my name is Jasiara Mayes and I am in my third year of studying computer science.
 After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them.
 I enjoy skateboarding and reading books in my free time.
+
+Benji Gray
+---------------------------------------------------------
+Hello my name is Benji Gray. I enjoy sports, video games, and being outside. This is my third degree and I look forward to learning more about computers.
