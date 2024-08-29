@@ -141,3 +141,10 @@ My name is Camden, an undergrad computer science major and math minor and I am j
 math help center. Outside of school, I am very into music, both writing and listening. I play guitar
 and bass, I hope to finish an album soon (only took 5 years). I have also been reading a lot recently, just finished the
 Stormlight archive series and I'm waiting for the next book, in the meantime I'm reading the Wheel of Time series.
+
+Thomas Gibson
+---------------------------------------------------------
+My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.
+This past summer I started learning low-level graphics programming using Direct3D to communicate with the gpu.
+This semester I'm a CS Tutor, TA, and Grader.
+

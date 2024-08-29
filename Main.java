@@ -220,6 +220,14 @@ public class Main {
 
         classList.add(ctuttle);
 
+        User thomas = new User("Thomas Gibson",
+                """
+                        My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.
+                        This past summer I started learning low-level graphics programming using Direct3D to communicate with the gpu.
+                        This semester I'm a CS Tutor, TA, and Grader.
+                        """);
+        classList.add(thomas);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
