@@ -287,6 +287,12 @@ public class Main {
             throw new RuntimeException(e);
         }
 
+        User Shreya = new User("Shreya Jayas",
+        """
+        I am senior student in Computer Science. I have associates in CS from CCBC (Essex, Maryland), and . I love hiking, exercising and I have lots of other habits as well.
+        """
+        );
+        classList.add(Shreya);
 
     }
 }
