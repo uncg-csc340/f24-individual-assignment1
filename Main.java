@@ -142,7 +142,7 @@ public class Main {
 
         classList.add(cmitchell);
 
-<<<<<<< HEAD
+
         User brevelo = new User("Benjamin Revelo",
                 """
                         I am a senior Computer Science student at UNCG. I like playing tennis, hanging out with friends, cooking, playing video games,
@@ -221,8 +221,7 @@ public class Main {
 
         classList.add(ctuttle);
 
-=======
-        user fkbriuh = new User("Frankie K'briuh",
+        User fkbriuh = new User("Frankie K'briuh",
                 """
                         I'm an undergraduate computer science student. I was a transfer student from Guilford Technica
                         Community College. I'm a senior now at UNCG. I am catholic and a practice that I have currently 
@@ -231,7 +230,7 @@ public class Main {
                         """);
 
         classList.add(fkbriuh);
->>>>>>> 83f2a12 (I am writing a little snippet about me)
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
