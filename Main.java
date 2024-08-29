@@ -248,6 +248,14 @@ public class Main {
                         """
         );
         classList.add(blooney);
+        User william = new User("William Sanders",
+                """
+                        My name is William Sanders. I'm a undegraduate comp sci major in their senior year. I'm happily engage with my partner
+                        and with both aspire to work abroad, namely in Japan. We have a cute black cat name Aniyah. Outside of school, I'm a bartender
+                        for UNCG events on and off campus. My hobbies include music(lofi, jpop, anything from the 70s/80s), electronic repair, reading,
+                        card games, and video games. I hope to obtain a software engineer, or adjacent, job after college.
+                        """);
+        classList.add(william);
 
         User aquinn = new User("Aidan Quinn",
                 """
