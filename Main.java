@@ -31,6 +31,15 @@ public class Main {
         );
         classList.add(nandor);
 
+        User matthew = new User("Matthew Ingallinera",
+                """
+                        I am a senior Computer Science major here at uncg. I am also working on history minor at university as well.
+                        I work full time outside of school and love listening to music and watching youtube.
+                        """
+        );
+
+        classList.add(matthew);
+      
         User bennett = new User("Bennett Scott",
                 """
                     I am a student of Computer Science pursuing his BS at the University of North Carolina at 
@@ -133,6 +142,16 @@ public class Main {
 
         classList.add(cmitchell);
 
+        User rdezarn = new User("Ross Dezarn",
+                """
+                        Hi I'm Ross Dezarn, I am an  computer science major here at UNCG. When I'm not working on school projects I am
+                        probably working with my family's business or on some personal projects. I too like video games and reading, and
+                        I also like cooking and writing. Lately I've been spending more time listening to audiobooks, as it works better
+                        with my commute, and just got done rereading the collective works of HG Wells.
+                        """
+                );
+        classList.add(rdezarn);
+
         User brevelo = new User("Benjamin Revelo",
                 """
                         I am a senior Computer Science student at UNCG. I like playing tennis, hanging out with friends, cooking, playing video games,
@@ -142,6 +161,7 @@ public class Main {
         );
         classList.add(brevelo);
 
+
         User groberts = new User("Gabe Roberts",
                 """
                         I'm twenty-two, I'm a senior Computer Science student at UNCG, and a Marine Corps reservist.
@@ -150,10 +170,97 @@ public class Main {
                         My favorite video games include League of Legends, Terraria, and Factorio. 
                         I would like to develop my own video game some day and participate in a game jam.
                        """
-
         );
 
         classList.add(groberts);
+
+        User cparsons = new User ("Caden Parsons",
+                """
+                        I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming. 
+                        I am trying to work my way to being a game developer. 
+                        
+                        """
+        );
+        classList.add(cparsons);
+
+        User jvarona = new User("Jahsiyah Varona",
+                """
+                        I am a senior computer science student at UNCG. I love learning new things, trading crypto, and working out. i want to pursue a career in cybersecurity. 
+                        """
+        );
+        classList.add(jvarona);
+
+        User richard = new User("Richard Antwi-Bediako",
+                """
+                        I am a senior  Computer Science student. I enjoy listening to music, spending time with family and playing video games.
+                        I am also aspiring to work as a full stack engineer.
+                        I'm enthusiastic about learning during this course.
+                        """
+        );
+        classList.add(richard);
+
+        User nngo = new User("Nhung Ngo",
+                """
+                        I am a senior computer science student at UNCG. I enjoy solving problems and working with code.
+                        I love traveling and exploring new place, which help me stay inspired.
+                        """
+        );
+        classList.add(nngo);
+
+        User viet = new User("Viet Anh My Nguyen" ,
+                """
+                        I am a senior CS student. I love play video and like to learn anything'
+                        relate to computer. I am also interested in cyber security beside programming
+                        """
+        );
+        classList.add(viet);
+
+        User dalton = new User("Dalton Blume",
+                """
+                        I am a senior Computer Science student. I love playing with my dog named Banjo, playing video games, and
+                        playing guitar. I also enjoy playing and watching sports including basketball and football. I have worked
+                        several different jobs before going back to school including an HVAC technician and a Car Salesman.
+                        """
+        );
+        classList.add(dalton);
+
+        User albert = new User("Albert Lusk",
+                """
+                        I am a senior attending UNCG studying computer science and statistics. I enjoy skating around
+                        campus and playing video games in my free time. I want to study data science and machine learning
+                        with my 2 degrees once I graduate.
+                        """
+        );
+        classList.add(albert);
+
+        User ctuttle = new User("Camden Rivers Tuttle",
+                """
+                        My name is Camden, an undergrad computer science major and math minor and I am junior at UNCG. This semester I'm planning on working at the
+                        math help center. Outside of school, I am very into music, both writing and listening. I play guitar
+                        and bass, I hope to finish an album soon (only took 5 years). I have also been reading a lot recently, just finished the
+                        Stormlight archive series and I'm waiting for the next book, in the meantime I'm reading the Wheel of Time series.
+                        """);
+
+        classList.add(ctuttle);
+
+        User thomas = new User("Thomas Gibson",
+                """
+                        My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.
+                        This past summer I started learning low-level graphics programming using Direct3D to communicate with the gpu.
+                        This semester I'm a CS Tutor, TA, and Grader.
+                        """);
+        classList.add(thomas);
+
+        User blooney = new User("Brandon Looney",
+                """
+                        My name is Brandon Looney. I transferred to UNCG from GTCC to get a bachelor's degree in Computer Science.
+                        I live with my parents and little brother. I basically babysit my brother whenever my parents are out of the house.
+                        I used to play electric guitar in middle school, but I haven's played much recently.
+                        In my free time, I normally watch YouTube or play games on my computer. When I'm with friends, we normally play Super Smash Bros. Ultimate or Mario Kart.
+                        I'm still not sure what I want to do after I get my degree, but I hope I can find something while I'm at still at UNCG.
+                        """
+        );
+        classList.add(blooney);
 
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
