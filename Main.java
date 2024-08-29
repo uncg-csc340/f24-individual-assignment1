@@ -142,6 +142,16 @@ public class Main {
 
         classList.add(cmitchell);
 
+        User rdezarn = new User("Ross Dezarn",
+                """
+                        Hi I'm Ross Dezarn, I am an  computer science major here at UNCG. When I'm not working on school projects I am
+                        probably working with my family's business or on some personal projects. I too like video games and reading, and
+                        I also like cooking and writing. Lately I've been spending more time listening to audiobooks, as it works better
+                        with my commute, and just got done rereading the collective works of HG Wells.
+                        """
+                );
+        classList.add(rdezarn);
+
         User brevelo = new User("Benjamin Revelo",
                 """
                         I am a senior Computer Science student at UNCG. I like playing tennis, hanging out with friends, cooking, playing video games,
