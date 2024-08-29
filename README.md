@@ -55,6 +55,7 @@ Note you can do steps 7 and 8 in one click on IntelliJ. Under the "commit" tab, 
 
 ## Step Ten: In GitBash, publish your branch to origin.
     git push origin [ BRANCH NAME ]
+> If you have not been added as a collaborator to the repository, you will get an error from GitHub!
 
 ## Step Eleven: Log into GitHub, go to the repo, and create a Pull Request.
 https://github.com/uncg-csc340/f24-individual-assignment1
