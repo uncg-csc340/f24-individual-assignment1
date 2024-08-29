@@ -220,6 +220,15 @@ public class Main {
 
         classList.add(ctuttle);
 
+        User aabbaszadeh = new User ("Sheila Abbaszadeh",
+                """
+                        I am a junior here at UNCG studying computer science and Statistics. Im thinking about minoring 
+                        in data science but im still not completely sure about it. I spend a lot my free time (outside of work/school/coding) running or baking/cooking.
+                        I love playing board games. I love baking/ cooking with friends a lot more than doing it on my own because i get to see how they were taught to 
+                        cook and i enjoy seeing there own tips and tricks while cooking/baking.
+                        """);
+
+        classList.add(aabbaszadeh);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
