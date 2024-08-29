@@ -249,7 +249,6 @@ public class Main {
         );
         classList.add(blooney);
 
-
         User aquinn = new User("Aidan Quinn",
                 """
                         My name is Aidan Quinn. I study at UNCG for a Computer Science Degree.
@@ -261,7 +260,17 @@ public class Main {
         );
         classList.add(aquinn);
 
-
+        User Jasiara = new User("Jasiara Mayes",
+                """
+                        Hello my name is Jasiara Mayes and I am in my third year of studying computer science.
+                        After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them. 
+                        I enjoy skateboarding and reading books in my free time.
+                        """
+        );
+        classList.add(Jasiara);
+        /*
+        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
+         */  
         writeFile(classList);
     }
 
