@@ -176,3 +176,10 @@ Jasiara Mayes
 Hello my name is Jasiara Mayes and I am in my third year of studying computer science.
 After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them.
 I enjoy skateboarding and reading books in my free time.
+
+Kevin Ludwig
+---------------------------------------------------------
+Hello! My name is Kevin Ludwig, and I'm a junior here majoring in Computer Science.
+My current plan is to become a software engineer after graduating, but I also wouldn't mind becoming a video game dev.
+I usually play video games, draw, or code in my free time. I also have two cats, both of which are very silly.
+

@@ -268,6 +268,17 @@ public class Main {
                         """
         );
         classList.add(Jasiara);
+
+        User kevin = new User("Kevin Ludwig",
+                """
+                        Hello! My name is Kevin Ludwig, and I'm a junior here majoring in Computer Science.
+                        My current plan is to become a software engineer after graduating, but I also wouldn't mind becoming a video game dev.
+                        I usually play video games, draw, or code in my free time. I also have two cats, both of which are very silly.
+                        """
+        );
+
+        classList.add(kevin);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  
