@@ -220,6 +220,16 @@ public class Main {
 
         classList.add(ctuttle);
 
+        User cbarnard = new User("Carson Barnard",
+                """
+                        How's it going, my name is Carson. I am a senior here at UNCG, and a longtime lover of computers. I enjoy playing video games,
+                        creating music, and watching television and cartoons. I have probably 2000 hours in Elden Ring PvP.
+                        Outside of school, I make my own music under my own handle, and spend time with my girlfriend.
+                        """);
+
+        classList.add(cbarnard);
+
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */     
