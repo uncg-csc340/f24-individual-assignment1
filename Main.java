@@ -31,33 +31,6 @@ public class Main {
         );
         classList.add(nandor);
 
-        User matthew = new User("Matthew Ingallinera",
-                """
-                        I am a senior Computer Science major here at uncg. I am also working on history minor at university as well.
-                        I work full time outside of school and love listening to music and watching youtube.
-                        """
-        );
-
-        classList.add(matthew);
-      
-        User bennett = new User("Bennett Scott",
-                """
-                    I am a student of Computer Science pursuing his BS at the University of North Carolina at 
-                    Greensboro. I am also an IT Innovations Team intern at AAA, where I design prototypes and build 
-                    websites. It's my duty to write software that is optimized, efficient, and useful to the 
-                    end-user. I truly believe in the Unix philosophy, which is to avoid complexity in software
-                    projects by building specific applications that are each designed to solve one specific problem 
-                    well, rather than filling them with bloat by trying to solve multiple problems at once. Software 
-                    I am a student of Computer Science pursuing his BS at the University of North Carolina at 
-                    development is my true calling; I want to build as many applications as I can in my lifetime.
-                    One day, I want to be able to confidently see myself as one of the new-age architects of digital 
-                    spaces that we call software engineers.
-                        
-                    I also like playing Dungeons & Dragons.
-                    """
-        );
-        classList.add(bennett);
-
         User ykpa = new User("Y'Vin Kpa",
                 """
                         I am a student at UNCG majoring in Computer Science. During my free time, I like to read books,
@@ -103,155 +76,13 @@ public class Main {
                        """);
         classList.add(jsao);
 
-        User Mogoi = new User("Mogoi Matongo",
+        User lchristian = new User("Logan Christian" ,
                 """
-                        I am Computer Science student at UNCG. I enjoy hanging out with friends and playing sports.
-                        I look forward to learning a lot this semester!
-                        """
-        );
-        classList.add(Mogoi);
-
-        User jacob = new User("Jacob DeBroder",
-                """
-                        I am a senior Computer Science student at the University of North Carolina at Greensboro. I was born in
-                        Pfafftown, North Carolina. I enjoy playing video games, hanging out with family and friends, watching 
-                        movies and shows, traveling, and eating good food. I also enjoy biology and hope to work in AI or robotics 
-                        in the near future!
-                        """
-        );
-        classList.add(jacob);
-
-        User sbarber = new User("Sarah Barber",
-                """
-                        I'm an undergraduate Computer Science major + IT and English minor here at UNCG. I work at the 
-                        UNCG Esports Arena as a PA, and I am currently the president of the burgeoning Game Development Club 
-                        here on campus. I love my 3 cats, The Legend of Zelda, and my anime figure collection!
-                        I'm currently reading "The King in Yellow" and can't wait to finish it-
-                        """);
-
-        classList.add(sbarber);
-
-        User cmitchell = new User("Hunter Cain Mitchell",
-                """
-                        My name is Cain and I am a computer science major. I was a transfer student from Forsyth tech community college
-                        I am currently a senior at UNCG and I am excited to hopefully graduate 
-                        in the spring. I live with my fiance and have one dog and one cat.
-                        In my free time, what little I have, I like to play video games, go camping, and fishing. I am excited to learn a lot of practical tools\s
-                        for my future job and I am hopeful this class will provide it
-                        """);
-
-        classList.add(cmitchell);
-
-        User rdezarn = new User("Ross Dezarn",
-                """
-                        Hi I'm Ross Dezarn, I am an  computer science major here at UNCG. When I'm not working on school projects I am
-                        probably working with my family's business or on some personal projects. I too like video games and reading, and
-                        I also like cooking and writing. Lately I've been spending more time listening to audiobooks, as it works better
-                        with my commute, and just got done rereading the collective works of HG Wells.
-                        """
-                );
-        classList.add(rdezarn);
-
-        User brevelo = new User("Benjamin Revelo",
-                """
-                        I am a senior Computer Science student at UNCG. I like playing tennis, hanging out with friends, cooking, playing video games,
-                        travelling and spending time with family. Recently I've been reading more books, the books I am currently reading are called 
-                        "Mindset" and "One Hundred Years of Solitude". I am looking forward to this class!
-                        """
-        );
-        classList.add(brevelo);
-
-        User cparsons = new User ("Caden Parsons",
-                """
-                        I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming. 
-                        I am trying to work my way to being a game developer. 
-                        
-                        """
-        );
-        classList.add(cparsons);
-
-        User jvarona = new User("Jahsiyah Varona",
-                """
-                        I am a senior computer science student at UNCG. I love learning new things, trading crypto, and working out. i want to pursue a career in cybersecurity. 
-                        """
-        );
-        classList.add(jvarona);
-
-        User richard = new User("Richard Antwi-Bediako",
-                """
-                        I am a senior  Computer Science student. I enjoy listening to music, spending time with family and playing video games.
-                        I am also aspiring to work as a full stack engineer.
-                        I'm enthusiastic about learning during this course.
-                        """
-        );
-        classList.add(richard);
-
-        User nngo = new User("Nhung Ngo",
-                """
-                        I am a senior computer science student at UNCG. I enjoy solving problems and working with code.
-                        I love traveling and exploring new place, which help me stay inspired.
-                        """
-        );
-        classList.add(nngo);
-
-        User viet = new User("Viet Anh My Nguyen" ,
-                """
-                        I am a senior CS student. I love play video and like to learn anything'
-                        relate to computer. I am also interested in cyber security beside programming
-                        """
-        );
-        classList.add(viet);
-
-        User dalton = new User("Dalton Blume",
-                """
-                        I am a senior Computer Science student. I love playing with my dog named Banjo, playing video games, and
-                        playing guitar. I also enjoy playing and watching sports including basketball and football. I have worked
-                        several different jobs before going back to school including an HVAC technician and a Car Salesman.
-                        """
-        );
-        classList.add(dalton);
-
-        User albert = new User("Albert Lusk",
-                """
-                        I am a senior attending UNCG studying computer science and statistics. I enjoy skating around
-                        campus and playing video games in my free time. I want to study data science and machine learning
-                        with my 2 degrees once I graduate.
-                        """
-        );
-        classList.add(albert);
-
-        User ctuttle = new User("Camden Rivers Tuttle",
-                """
-                        My name is Camden, an undergrad computer science major and math minor and I am junior at UNCG. This semester I'm planning on working at the
-                        math help center. Outside of school, I am very into music, both writing and listening. I play guitar
-                        and bass, I hope to finish an album soon (only took 5 years). I have also been reading a lot recently, just finished the
-                        Stormlight archive series and I'm waiting for the next book, in the meantime I'm reading the Wheel of Time series.
-                        """);
-
-        classList.add(ctuttle);
-
-        User thomas = new User("Thomas Gibson",
-                """
-                        My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.
-                        This past summer I started learning low-level graphics programming using Direct3D to communicate with the gpu.
-                        This semester I'm a CS Tutor, TA, and Grader.
-                        """);
-        classList.add(thomas);
-
-        User blooney = new User("Brandon Looney",
-                """
-                        My name is Brandon Looney. I transferred to UNCG from GTCC to get a bachelor's degree in Computer Science.
-                        I live with my parents and little brother. I basically babysit my brother whenever my parents are out of the house.
-                        I used to play electric guitar in middle school, but I haven's played much recently.
-                        In my free time, I normally watch YouTube or play games on my computer. When I'm with friends, we normally play Super Smash Bros. Ultimate or Mario Kart.
-                        I'm still not sure what I want to do after I get my degree, but I hope I can find something while I'm at still at UNCG.
-                        """
-        );
-        classList.add(blooney);
-
-        /*
-        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */     
+                       I am an undergaduate at UNCG majoring in Computer Science with a minor in Information Technology. I have earned 10 international
+                       titles for martial arts within the NBL (National Blackbelt League). I am a second degree blackbelt, I also enjoy fishing and playing games of any kind.
+                       I recently got engaged to my wonder fiancee on August 3rd of this year.
+                       """);
+        classList.add(lchristian);
         writeFile(classList);
     }
 
