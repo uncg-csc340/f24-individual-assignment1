@@ -255,6 +255,7 @@ public class Main {
                         """
         );
         classList.add(blooney);
+                               
         User collin = new User("Collin Moore",
                 """
                         I am a 4th year student here at UNCG, and I'm from Asheville NC. I am and avid
@@ -287,6 +288,18 @@ public class Main {
                         """
         );
         classList.add(Jasiara);
+
+        User Kannan = new User("Kannan Thilak",
+                """
+                        I'm Kannan Thilak, a Computer Science student at UNC Greensboro, anticipating graduation in May 2025. 
+                        My academic journey is complemented by hands-on experience in AI research and development, particularly through my role as an AI Research Analyst Intern at Furnitureland South. 
+                        Here, I focus on integrating AI solutions to address real-world challenges and drive business efficiency.
+                        I have a solid foundation in machine learning, data science, and web development, with a track record of projects ranging from autonomous vehicle research to developing AI-driven chatbots that enhance organizational processes. 
+                        My career goal is to continue building expertise in AI, contribute to impactful initiatives, and explore opportunities in advanced technology sectors.
+                    """
+
+        );
+        classList.add(Kannan);
 
         User Steven = new User("Steven Torres",
                 """
