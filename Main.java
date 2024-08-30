@@ -339,7 +339,17 @@ public class Main {
         );
 
         classList.add(kevin);
+        
+        User Daisy = new User("Daisy Ibuoka",
+                """
+                        Hello i'm Daisy a senior here at UNCG. Im from Charlotte, NC. 
+                        I want to go into cyber security and I love to play tennis during my free time.
+                        I'm majoring in Computer Science and minoring in math.                        
+                        """
+        );
+        classList.add(Steven);
 
+        );
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  
