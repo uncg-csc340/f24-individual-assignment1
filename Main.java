@@ -230,6 +230,13 @@ public class Main {
 
         classList.add(ctuttle);
 
+        User jbellion = new User("Juliet Bellion",
+                "Hey y'all, I'm Juliet, My major is CS and I'm working towards a math minor! In my free time I love" +
+                        " to play board games with friends and read. Currently I'm about half way through Stephen King's" +
+                        "The Stand. Once I graduate I'd like to break into the Cybersecurity field and become a pen tester."
+                          );
+        classList.add(jbellion);
+
         User thomas = new User("Thomas Gibson",
                 """
                         My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.

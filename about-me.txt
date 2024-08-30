@@ -149,6 +149,11 @@ math help center. Outside of school, I am very into music, both writing and list
 and bass, I hope to finish an album soon (only took 5 years). I have also been reading a lot recently, just finished the
 Stormlight archive series and I'm waiting for the next book, in the meantime I'm reading the Wheel of Time series.
 
+Juliet Bellion
+---------------------------------------------------------
+Hey y'all, I'm Juliet, My major is CS and I'm working towards a math minor! In my free time I love to play board games
+with friends and read. Currently, I'm about halfway through Stephen King'sThe Stand. Once I graduate I'd like to break into
+the Cybersecurity field and become a pen tester.
 Thomas Gibson
 ---------------------------------------------------------
 My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.
@@ -186,3 +191,4 @@ Jasiara Mayes
 Hello my name is Jasiara Mayes and I am in my third year of studying computer science.
 After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them.
 I enjoy skateboarding and reading books in my free time.
+
