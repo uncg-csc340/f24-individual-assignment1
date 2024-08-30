@@ -39,22 +39,22 @@ public class Main {
         );
 
         classList.add(matthew);
-      
+
         User bennett = new User("Bennett Scott",
                 """
-                    I am a student of Computer Science pursuing his BS at the University of North Carolina at 
-                    Greensboro. I am also an IT Innovations Team intern at AAA, where I design prototypes and build 
-                    websites. It's my duty to write software that is optimized, efficient, and useful to the 
-                    end-user. I truly believe in the Unix philosophy, which is to avoid complexity in software
-                    projects by building specific applications that are each designed to solve one specific problem 
-                    well, rather than filling them with bloat by trying to solve multiple problems at once. Software 
-                    I am a student of Computer Science pursuing his BS at the University of North Carolina at 
-                    development is my true calling; I want to build as many applications as I can in my lifetime.
-                    One day, I want to be able to confidently see myself as one of the new-age architects of digital 
-                    spaces that we call software engineers.
+                        I am a student of Computer Science pursuing his BS at the University of North Carolina at 
+                        Greensboro. I am also an IT Innovations Team intern at AAA, where I design prototypes and build 
+                        websites. It's my duty to write software that is optimized, efficient, and useful to the 
+                        end-user. I truly believe in the Unix philosophy, which is to avoid complexity in software
+                        projects by building specific applications that are each designed to solve one specific problem 
+                        well, rather than filling them with bloat by trying to solve multiple problems at once. Software 
+                        I am a student of Computer Science pursuing his BS at the University of North Carolina at 
+                        development is my true calling; I want to build as many applications as I can in my lifetime.
+                        One day, I want to be able to confidently see myself as one of the new-age architects of digital 
+                        spaces that we call software engineers.
                         
-                    I also like playing Dungeons & Dragons.
-                    """
+                        I also like playing Dungeons & Dragons.
+                        """
         );
         classList.add(bennett);
 
@@ -96,11 +96,11 @@ public class Main {
 
         classList.add(amclean);
 
-        User jsao = new User("Jonathan Sao" ,
+        User jsao = new User("Jonathan Sao",
                 """
-                       I am a undergraduate at UNCG. I like to spend my time looking at code and playing games. Besides
-                       being indoors all day, I also like to workout and play volleyball or go fishing/hiking.
-                       """);
+                        I am a undergraduate at UNCG. I like to spend my time looking at code and playing games. Besides
+                        being indoors all day, I also like to workout and play volleyball or go fishing/hiking.
+                        """);
         classList.add(jsao);
 
         User Mogoi = new User("Mogoi Matongo",
@@ -149,7 +149,7 @@ public class Main {
                         I also like cooking and writing. Lately I've been spending more time listening to audiobooks, as it works better
                         with my commute, and just got done rereading the collective works of HG Wells.
                         """
-                );
+        );
         classList.add(rdezarn);
 
         User brevelo = new User("Benjamin Revelo",
@@ -161,7 +161,7 @@ public class Main {
         );
         classList.add(brevelo);
 
-        User cparsons = new User ("Caden Parsons",
+        User cparsons = new User("Caden Parsons",
                 """
                         I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming. 
                         I am trying to work my way to being a game developer. 
@@ -194,7 +194,7 @@ public class Main {
         );
         classList.add(nngo);
 
-        User viet = new User("Viet Anh My Nguyen" ,
+        User viet = new User("Viet Anh My Nguyen",
                 """
                         I am a senior CS student. I love play video and like to learn anything'
                         relate to computer. I am also interested in cyber security beside programming
@@ -286,8 +286,26 @@ public class Main {
                         After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them. 
                         I enjoy skateboarding and reading books in my free time.
                         """
-        );
+        );                               
         classList.add(Jasiara);
+                               
+        User jennifer = new User("Jennifer Galicia-Torres",
+                """
+                        Hello my name is Jennifer Galicia-Torres, I am currently a senior majoring in Computer Science 
+                        with a minor in Spanish. I am pretty involved on campus and am even a Spartan Guide, so I give tours 
+                        on campus!
+                        """
+        );
+        classList.add(jennifer);
+
+        User jrmchugh2 = new User("Joscelyn McHugh",
+                """
+                        I am a senior in the computer science program at UNCG. I don't have much free time between school, work and studying. 
+                        Although, I enjoy programming, watching cartoons and sleeping. 
+                        I can't wait for the challenges of this school year and am looking forward to joining the tech side of the workforce.
+                        """
+        );
+        classList.add(jrmchugh2);
 
         User Kannan = new User("Kannan Thilak",
                 """
