@@ -340,6 +340,11 @@ public class Main {
 
         classList.add(kevin);
 
+
+        User elijah = new User("Elijah Carpenter", """
+                Salutations to all. This is a class I am taking. Chess is cool.""");
+
+        classList.add(elijah);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  
