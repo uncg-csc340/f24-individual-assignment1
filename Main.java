@@ -340,6 +340,17 @@ public class Main {
 
         classList.add(kevin);
 
+        User saniyah = new User("Saniyah Khan",
+                """
+                        Hi, my name is Saniyah Khan and I'm an undergrad majoring in Computer Science. 
+                        I hope to go into Software Engineering with my degree. 
+                        In my free time I usually like to cook new dishes, read webtoons (mystery/thriller), and listen to music/podcasts.
+                        
+                        """
+        );
+
+        classList.add(saniyah);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  
