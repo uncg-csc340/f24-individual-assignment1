@@ -338,8 +338,15 @@ public class Main {
                         """
         );
 
-        classList.add(kevin);
+        classList.add(David);
 
+        User david = new User("David Williams",
+                """
+                        Hello my name is David! I am a Senior majoring Computer Science, and also minor in Photography.
+                        I plan on doing something IT related for my major and want create a business for my photogrpahy minor.
+                        I like playing video games, watching shows and movies, and love hanging with my friends!!
+                        """
+        );
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  
