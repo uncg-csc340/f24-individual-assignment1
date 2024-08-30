@@ -268,6 +268,16 @@ public class Main {
                         """
         );
         classList.add(Jasiara);
+
+        User mishaal = new User("Mishaal Khalid" ,
+                """
+                        I am a junior CS student.
+                        I want to improve my coding skills this semester :)
+                        I like playing badminton.
+                        """
+        );
+        classList.add(mishaal);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  

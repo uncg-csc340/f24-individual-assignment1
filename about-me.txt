@@ -176,3 +176,10 @@ Jasiara Mayes
 Hello my name is Jasiara Mayes and I am in my third year of studying computer science.
 After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them.
 I enjoy skateboarding and reading books in my free time.
+
+Mishaal Khalid
+---------------------------------------------------------
+I am a junior CS student.
+I want to improve my coding skills this semester :)
+I like playing badminton.
+
