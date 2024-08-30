@@ -340,6 +340,18 @@ public class Main {
 
         classList.add(kevin);
 
+        User carter = new User("Carter Gibb",
+                """
+                        Hello, I'm Carter, a senior at UNCG, majoring in computer science, as one would expect.
+                        I live close by in Greensboro and commute to class instead of staying on campus.
+                        I play a lot of video games in my free time and that definitely had an influence on my major of choice,
+                        my plan is to get a career in software development, and while I don't have any strong plans about it I am
+                        interested in maybe trying to do game development.
+                        
+                        """
+        );
+        classList.add(carter);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  
