@@ -280,9 +280,12 @@ public class Main {
                         """
         );
         classList.add(Jasiara);
-        /*
-        ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */  
+
+        User Benji = new User("Benji Gray",
+                "Hello my name is Benji Gray. I enjoy sports, video games, and being outside. This is my third degree and I look forward to learning more about computers."
+        );
+        classList.add(Benji);
+
         writeFile(classList);
     }
 
