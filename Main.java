@@ -230,6 +230,13 @@ public class Main {
 
         classList.add(ctuttle);
 
+        User jbellion = new User("Juliet Bellion",
+                "Hey y'all, I'm Juliet, My major is CS and I'm working towards a math minor! In my free time I love" +
+                        " to play board games with friends and read. Currently I'm about half way through Stephen King's" +
+                        "The Stand. Once I graduate I'd like to break into the Cybersecurity field and become a pen tester."
+                          );
+        classList.add(jbellion);
+
         User thomas = new User("Thomas Gibson",
                 """
                         My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.
@@ -248,6 +255,19 @@ public class Main {
                         """
         );
         classList.add(blooney);
+                               
+        User collin = new User("Collin Moore",
+                """
+                        I am a 4th year student here at UNCG, and I'm from Asheville NC. I am and avid
+                        sports fan as well as gym goer. I like basketball, football, and boxing/mma in the order.
+                        My favorite basketball team is the Boston Celtics and I've been a fan of them since second grade,
+                        which I think was the best decision I made in my childhood lol. As far as football goes I enjoy 
+                        watching players more than teams because I take fantasy football almost too seriously, but if I had to
+                        choose a team I'd say the packers, although my favorite player is Dolphin's RB Devon A'Chane.
+                        My favorite MMA fighter is Max Holloway.
+                        """
+        );
+        classList.add(collin);
 
         User aquinn = new User("Aidan Quinn",
                 """
@@ -266,8 +286,9 @@ public class Main {
                         After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them. 
                         I enjoy skateboarding and reading books in my free time.
                         """
-        );
-
+        );                               
+        classList.add(Jasiara);
+                               
         User jennifer = new User("Jennifer Galicia-Torres",
                 """
                         Hello my name is Jennifer Galicia-Torres, I am currently a senior majoring in Computer Science 
@@ -276,6 +297,48 @@ public class Main {
                         """
         );
         classList.add(jennifer);
+
+        User jrmchugh2 = new User("Joscelyn McHugh",
+                """
+                        I am a senior in the computer science program at UNCG. I don't have much free time between school, work and studying. 
+                        Although, I enjoy programming, watching cartoons and sleeping. 
+                        I can't wait for the challenges of this school year and am looking forward to joining the tech side of the workforce.
+                        """
+        );
+        classList.add(jrmchugh2);
+
+        User Kannan = new User("Kannan Thilak",
+                """
+                        I'm Kannan Thilak, a Computer Science student at UNC Greensboro, anticipating graduation in May 2025. 
+                        My academic journey is complemented by hands-on experience in AI research and development, particularly through my role as an AI Research Analyst Intern at Furnitureland South. 
+                        Here, I focus on integrating AI solutions to address real-world challenges and drive business efficiency.
+                        I have a solid foundation in machine learning, data science, and web development, with a track record of projects ranging from autonomous vehicle research to developing AI-driven chatbots that enhance organizational processes. 
+                        My career goal is to continue building expertise in AI, contribute to impactful initiatives, and explore opportunities in advanced technology sectors.
+                    """
+
+        );
+        classList.add(Kannan);
+
+        User Steven = new User("Steven Torres",
+                """
+                        Hello i'm Steven a junior here at UNCG. Im from Kernersville, NC. 
+                        In my free time i enjoy to weightlift and play video games(when I have time).
+                        I was reading a good amount over the summer, since the semester has started thats slowed down. 
+                        It's definitely something i want to pick back up.
+                        
+                        """
+        );
+        classList.add(Steven);
+
+        User kevin = new User("Kevin Ludwig",
+                """
+                        Hello! My name is Kevin Ludwig, and I'm a junior here majoring in Computer Science.
+                        My current plan is to become a software engineer after graduating, but I also wouldn't mind becoming a video game dev.
+                        I usually play video games, draw, or code in my free time. I also have two cats, both of which are very silly.
+                        """
+        );
+
+        classList.add(kevin);
 
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
