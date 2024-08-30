@@ -340,6 +340,15 @@ public class Main {
 
         classList.add(kevin);
 
+        User shakaombongi = new User("shaka ombongi",
+                """
+                        I am Shaka Ombongi, and I'm a junior here majoring in Computer Science with a minor in math.
+                        My current plan is to become a front end dev.
+                        """
+        );
+
+        classList.add(shakaombongi);
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  
