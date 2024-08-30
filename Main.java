@@ -230,6 +230,13 @@ public class Main {
 
         classList.add(ctuttle);
 
+        User jbellion = new User("Juliet Bellion",
+                "Hey y'all, I'm Juliet, My major is CS and I'm working towards a math minor! In my free time I love" +
+                        " to play board games with friends and read. Currently I'm about half way through Stephen King's" +
+                        "The Stand. Once I graduate I'd like to break into the Cybersecurity field and become a pen tester."
+                          );
+        classList.add(jbellion);
+
         User thomas = new User("Thomas Gibson",
                 """
                         My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.
@@ -248,6 +255,18 @@ public class Main {
                         """
         );
         classList.add(blooney);
+        User collin = new User("Collin Moore",
+                """
+                        I am a 4th year student here at UNCG, and I'm from Asheville NC. I am and avid
+                        sports fan as well as gym goer. I like basketball, football, and boxing/mma in the order.
+                        My favorite basketball team is the Boston Celtics and I've been a fan of them since second grade,
+                        which I think was the best decision I made in my childhood lol. As far as football goes I enjoy 
+                        watching players more than teams because I take fantasy football almost too seriously, but if I had to
+                        choose a team I'd say the packers, although my favorite player is Dolphin's RB Devon A'Chane.
+                        My favorite MMA fighter is Max Holloway.
+                        """
+        );
+        classList.add(collin);
 
         User aquinn = new User("Aidan Quinn",
                 """

@@ -149,6 +149,11 @@ math help center. Outside of school, I am very into music, both writing and list
 and bass, I hope to finish an album soon (only took 5 years). I have also been reading a lot recently, just finished the
 Stormlight archive series and I'm waiting for the next book, in the meantime I'm reading the Wheel of Time series.
 
+Juliet Bellion
+---------------------------------------------------------
+Hey y'all, I'm Juliet, My major is CS and I'm working towards a math minor! In my free time I love to play board games
+with friends and read. Currently, I'm about halfway through Stephen King'sThe Stand. Once I graduate I'd like to break into
+the Cybersecurity field and become a pen tester.
 Thomas Gibson
 ---------------------------------------------------------
 My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.
@@ -162,6 +167,16 @@ I live with my parents and little brother. I basically babysit my brother whenev
 I used to play electric guitar in middle school, but I haven's played much recently.
 In my free time, I normally watch YouTube or play games on my computer. When I'm with friends, we normally play Super Smash Bros. Ultimate or Mario Kart.
 I'm still not sure what I want to do after I get my degree, but I hope I can find something while I'm at still at UNCG.
+
+Collin Moore
+---------------------------------------------------------
+I am a 4th year student here at UNCG, and I'm from Asheville NC. I am and avid
+sports fan as well as gym goer. I like basketball, football, and boxing/mma in the order.
+My favorite basketball team is the Boston Celtics and I've been a fan of them since second grade,
+which I think was the best decision I made in my childhood lol. As far as football goes I enjoy
+watching players more than teams because I take fantasy football almost too seriously, but if I had to
+choose a team I'd say the packers, although my favorite player is Dolphin's RB Devon A'Chane.
+My favorite MMA fighter is Max Holloway.
 
 Aidan Quinn
 ---------------------------------------------------------
@@ -182,4 +197,3 @@ Kevin Ludwig
 Hello! My name is Kevin Ludwig, and I'm a junior here majoring in Computer Science.
 My current plan is to become a software engineer after graduating, but I also wouldn't mind becoming a video game dev.
 I usually play video games, draw, or code in my free time. I also have two cats, both of which are very silly.
-
