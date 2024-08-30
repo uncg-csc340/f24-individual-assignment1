@@ -277,11 +277,10 @@ public class Main {
                         I hope to either become a software engineer or a game developer after I graduate from UNCG.
                         """
         );
+        classList.add(jIsler);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
-         */
-
-
+         */  
         writeFile(classList);
     }
 
