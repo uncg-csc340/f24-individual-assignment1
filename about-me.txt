@@ -176,3 +176,11 @@ Jasiara Mayes
 Hello my name is Jasiara Mayes and I am in my third year of studying computer science.
 After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them.
 I enjoy skateboarding and reading books in my free time.
+
+
+Abraham Tesfaye
+---------------------------------------------------------
+I am a senior  Computer Science student. I enjoy watching and playing sports.
+I am also aspiring to work as a software engineer or data anlyst.
+I'm excited about learning during this course and growing my skillset and confidence.
+
