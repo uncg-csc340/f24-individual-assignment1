@@ -288,6 +288,15 @@ public class Main {
                         """
         );                               
         classList.add(Jasiara);
+
+        User mdavis = new User("Matthew Davis",
+                """
+                        Hi, my name is Matthew Davis. I am a junior at UNCG studying computer science due to my love of video games.
+                        I hope to graduate and go into game development afterwords, and have already looked into game development on my own.
+                        I have been spending a lot of time outside of class creating modded content for a game called Fraymakers that I enjoy playing.
+                        """
+        );
+        classList.add(mdavis);
                                
         User jennifer = new User("Jennifer Galicia-Torres",
                 """
