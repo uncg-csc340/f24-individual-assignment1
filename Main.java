@@ -288,6 +288,17 @@ public class Main {
         );
         classList.add(Jasiara);
 
+        User Steven = new User("Steven Torres",
+                """
+                        Hello i'm Steven a junior here at UNCG. Im from Kernersville, NC. 
+                        In my free time i enjoy to weightlift and play video games(when I have time).
+                        I was reading a good amount over the summer, since the semester has started thats slowed down. 
+                        It's definitely something i want to pick back up.
+                        
+                        """
+        );
+        classList.add(Steven);
+
         User kevin = new User("Kevin Ludwig",
                 """
                         Hello! My name is Kevin Ludwig, and I'm a junior here majoring in Computer Science.
