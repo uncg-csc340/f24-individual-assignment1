@@ -268,6 +268,15 @@ public class Main {
                         """
         );
         classList.add(Jasiara);
+
+        User jrmchugh2 = new User("Joscelyn McHugh",
+                """
+                        I am a senior in the computer science program at UNCG. I don't have much free time between school, work and studying. 
+                        Although, I enjoy programming, watching cartoons and sleeping. 
+                        I can't wait for the challenges of this school year and am looking forward to joining the tech side of the workforce.
+                        """
+        );
+        classList.add(jrmchugh2);
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  
