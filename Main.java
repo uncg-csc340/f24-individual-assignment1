@@ -255,7 +255,7 @@ public class Main {
                         """
         );
         classList.add(blooney);
-                               
+
         User collin = new User("Collin Moore",
                 """
                         I am a 4th year student here at UNCG, and I'm from Asheville NC. I am and avid
@@ -286,9 +286,9 @@ public class Main {
                         After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them. 
                         I enjoy skateboarding and reading books in my free time.
                         """
-        );                               
+        );
         classList.add(Jasiara);
-                               
+
         User jennifer = new User("Jennifer Galicia-Torres",
                 """
                         Hello my name is Jennifer Galicia-Torres, I am currently a senior majoring in Computer Science 
@@ -339,6 +339,16 @@ public class Main {
         );
 
         classList.add(kevin);
+
+
+        User mishaal = new User("Mishaal Khalid" ,
+                """
+                        I am a junior CS student.
+                        I want to improve my coding skills this semester :)
+                        I like playing badminton.
+                        """
+        );
+        classList.add(mishaal);
 
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
