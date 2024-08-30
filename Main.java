@@ -1,3 +1,4 @@
+import javax.xml.namespace.QName;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -339,6 +340,14 @@ public class Main {
         );
 
         classList.add(kevin);
+
+        User adrian = new User("Adrian Sam",
+                """
+                         My name is Adrian Sam. I am a computer science student at UNCG. 
+                         I am from greensboro so i commute and i love listening to music and watching shows on my free time.
+                         """
+        );
+        classList.add(adrian);
 
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
