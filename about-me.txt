@@ -176,3 +176,10 @@ Jasiara Mayes
 Hello my name is Jasiara Mayes and I am in my third year of studying computer science.
 After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them.
 I enjoy skateboarding and reading books in my free time.
+
+Matthew Davis
+---------------------------------------------------------
+Hi, my name is Matthew Davis. I am a junior at UNCG studying computer science due to my love of video games.
+I hope to graduate and go into game development afterwords, and have already looked into game development on my own.
+I have been spending a lot of time outside of class creating modded content for a game called Fraymakers that I enjoy playing.
+
