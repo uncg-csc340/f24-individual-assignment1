@@ -10,6 +10,15 @@ public class Main {
     public static void main(String[] args) {
         List<User> classList = new ArrayList<>();
 
+        User Jack = new User("Yixi Xie",
+                """
+                        My name is Yixi Xie, or you can call me Jack. I am Comp Sci major, and 
+                        this is my 3rd year. Fun facts about me that I have lots of hobbies, such 
+                        as soccer, magic, and guitar. Recently, I learned AE, and I found fun in it.
+                        """
+        );
+        classList.add(Jack);
+
         User sunny = new User("Sunny Ntini",
                 """
                         I am a lecturer of Computer Science. I have an MS in Comp Sci from UNCG, and a BS in Computer
