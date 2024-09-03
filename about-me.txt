@@ -91,6 +91,19 @@ in the spring. I live with my fiance and have one dog and one cat.
 In my free time, what little I have, I like to play video games, go camping, and fishing. I am excited to learn a lot of practical tools 
 for my future job and I am hopeful this class will provide it
 
+Gerrit Grevenstuk
+---------------------------------------------------------
+My name is Gerrit Grevenstuk. I am a computer science major and Navy veteran.
+I am currently a junior and my current plans are to get an internship next Summer and graduate next Fall.
+I live with my wife and two cats in Mebane, NC.
+In my free time I like to play video games and I recently started playing pickleball.
+Ross Dezarn
+---------------------------------------------------------
+Hi I'm Ross Dezarn, I am an  computer science major here at UNCG. When I'm not working on school projects I am
+probably working with my family's business or on some personal projects. I too like video games and reading, and
+I also like cooking and writing. Lately I've been spending more time listening to audiobooks, as it works better
+with my commute, and just got done rereading the collective works of HG Wells.
+
 Benjamin Revelo
 ---------------------------------------------------------
 I am a senior Computer Science student at UNCG. I like playing tennis, hanging out with friends, cooking, playing video games,
@@ -141,3 +154,79 @@ My name is Camden, an undergrad computer science major and math minor and I am j
 math help center. Outside of school, I am very into music, both writing and listening. I play guitar
 and bass, I hope to finish an album soon (only took 5 years). I have also been reading a lot recently, just finished the
 Stormlight archive series and I'm waiting for the next book, in the meantime I'm reading the Wheel of Time series.
+
+Juliet Bellion
+---------------------------------------------------------
+Hey y'all, I'm Juliet, My major is CS and I'm working towards a math minor! In my free time I love to play board games with friends and read. Currently I'm about half way through Stephen King'sThe Stand. Once I graduate I'd like to break into the Cybersecurity field and become a pen tester.
+Thomas Gibson
+---------------------------------------------------------
+My name is Thomas Gibson, I'm a computer science student at UNCG. I really like graphics programming.
+This past summer I started learning low-level graphics programming using Direct3D to communicate with the gpu.
+This semester I'm a CS Tutor, TA, and Grader.
+
+Brandon Looney
+---------------------------------------------------------
+My name is Brandon Looney. I transferred to UNCG from GTCC to get a bachelor's degree in Computer Science.
+I live with my parents and little brother. I basically babysit my brother whenever my parents are out of the house.
+I used to play electric guitar in middle school, but I haven's played much recently.
+In my free time, I normally watch YouTube or play games on my computer. When I'm with friends, we normally play Super Smash Bros. Ultimate or Mario Kart.
+I'm still not sure what I want to do after I get my degree, but I hope I can find something while I'm at still at UNCG.
+
+Collin Moore
+---------------------------------------------------------
+I am a 4th year student here at UNCG, and I'm from Asheville NC. I am and avid
+sports fan as well as gym goer. I like basketball, football, and boxing/mma in the order.
+My favorite basketball team is the Boston Celtics and I've been a fan of them since second grade,
+which I think was the best decision I made in my childhood lol. As far as football goes I enjoy
+watching players more than teams because I take fantasy football almost too seriously, but if I had to
+choose a team I'd say the packers, although my favorite player is Dolphin's RB Devon A'Chane.
+My favorite MMA fighter is Max Holloway.
+
+Aidan Quinn
+---------------------------------------------------------
+My name is Aidan Quinn. I study at UNCG for a Computer Science Degree.
+I live at school and play a lot of video games on my free time.
+I also really like art and making things such as clothes or games.
+Me and my friends are really into making games and playing them, so that is usually what I do when I'm home.
+I'd really like to get a software engineering job after school with my degree.
+
+Jasiara Mayes
+---------------------------------------------------------
+Hello my name is Jasiara Mayes and I am in my third year of studying computer science.
+After graduation I aspire to be a game developer, as I've always had a passion for video games because the limitless creativity players possess in them.
+I enjoy skateboarding and reading books in my free time.
+
+Jennifer Galicia-Torres
+---------------------------------------------------------
+Hello my name is Jennifer Galicia-Torres, I am currently a senior majoring in Computer Science
+with a minor in Spanish. I am pretty involved on campus and am even a Spartan Guide, so I give tours
+on campus!
+
+Joscelyn McHugh
+---------------------------------------------------------
+I am a senior in the computer science program at UNCG. I don't have much free time between school, work and studying.
+Although, I enjoy programming, watching cartoons and sleeping.
+I can't wait for the challenges of this school year and am looking forward to joining the tech side of the workforce.
+
+Kannan Thilak
+---------------------------------------------------------
+    I'm Kannan Thilak, a Computer Science student at UNC Greensboro, anticipating graduation in May 2025.
+    My academic journey is complemented by hands-on experience in AI research and development, particularly through my role as an AI Research Analyst Intern at Furnitureland South.
+    Here, I focus on integrating AI solutions to address real-world challenges and drive business efficiency.
+    I have a solid foundation in machine learning, data science, and web development, with a track record of projects ranging from autonomous vehicle research to developing AI-driven chatbots that enhance organizational processes.
+    My career goal is to continue building expertise in AI, contribute to impactful initiatives, and explore opportunities in advanced technology sectors.
+
+Steven Torres
+---------------------------------------------------------
+Hello i'm Steven a junior here at UNCG. Im from Kernersville, NC.
+In my free time i enjoy to weightlift and play video games(when I have time).
+I was reading a good amount over the summer, since the semester has started thats slowed down.
+It's definitely something i want to pick back up.
+
+
+Kevin Ludwig
+---------------------------------------------------------
+Hello! My name is Kevin Ludwig, and I'm a junior here majoring in Computer Science.
+My current plan is to become a software engineer after graduating, but I also wouldn't mind becoming a video game dev.
+I usually play video games, draw, or code in my free time. I also have two cats, both of which are very silly.
+
