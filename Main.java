@@ -340,6 +340,19 @@ public class Main {
 
         classList.add(kevin);
 
+        User shreya = new User("Shreya Jayas",
+                """
+                  I am senior student in Computer Science.
+                  I like to do more cybersecurity related tasks. 
+                  I love coding sometimes. 
+                  I have associates in CS from CCBC (Essex, Maryland), and . 
+                  I love hiking, exercising and I have lots of other habits as well.
+                  """
+        );
+
+        classList.add(shreya);
+
+
         /*
         ADD YOURSELF TO THE LIST AS SHOWN ABOVE.
          */  
@@ -358,13 +371,6 @@ public class Main {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
-        User Shreya = new User("Shreya Jayas",
-        """
-        I am senior student in Computer Science. I like to do more cybersecurity related tasks. I love coding sometimes. I have associates in CS from CCBC (Essex, Maryland), and . I love hiking, exercising and I have lots of other habits as well.
-        """
-        );
-        classList.add(Shreya);
 
     }
 }
