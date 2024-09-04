@@ -288,15 +288,6 @@ public class Main {
                         """
         );                               
         classList.add(Jasiara);
-                               
-        User jennifer = new User("Jennifer Galicia-Torres",
-                """
-                        Hello my name is Jennifer Galicia-Torres, I am currently a senior majoring in Computer Science 
-                        with a minor in Spanish. I am pretty involved on campus and am even a Spartan Guide, so I give tours 
-                        on campus!
-                        """
-        );
-        classList.add(jennifer);
 
         User jrmchugh2 = new User("Joscelyn McHugh",
                 """
