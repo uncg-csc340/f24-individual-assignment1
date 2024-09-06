@@ -104,6 +104,14 @@ I am a senior Computer Science student at UNCG. I like playing tennis, hanging o
 travelling and spending time with family. Recently I've been reading more books, the books I am currently reading are called
 "Mindset" and "One Hundred Years of Solitude". I am looking forward to this class!
 
+Gabe Roberts
+---------------------------------------------------------
+ I'm twenty-two, I'm a senior Computer Science student at UNCG, and a Marine Corps reservist.
+ I like working out in the gym and I'm usually hogging the pull-up bar, but I've recently started rock climbing
+ I enjoy playing indie video games and writing poetry. Recently I've been reading 'The Prophet' by Khalil Gibran.
+ My favorite video games include League of Legends, Terraria, and Factorio.
+ I would like to develop my own video game some day and participate in a game jam.
+
 Caden Parsons
 ---------------------------------------------------------
 I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming.
@@ -162,3 +170,4 @@ I live with my parents and little brother. I basically babysit my brother whenev
 I used to play electric guitar in middle school, but I haven's played much recently.
 In my free time, I normally watch YouTube or play games on my computer. When I'm with friends, we normally play Super Smash Bros. Ultimate or Mario Kart.
 I'm still not sure what I want to do after I get my degree, but I hope I can find something while I'm at still at UNCG.
+
