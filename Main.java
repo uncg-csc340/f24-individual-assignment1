@@ -161,7 +161,20 @@ public class Main {
         );
         classList.add(brevelo);
 
+        User groberts = new User("Gabe Roberts",
+                """
+                        I'm twenty-two, I'm a senior Computer Science student at UNCG, and a Marine Corps reservist.
+                        I like working out in the gym and I'm usually hogging the pull-up bar, but I've recently started rock climbing
+                        I enjoy playing indie video games and writing poetry. Recently I've been reading 'The Prophet' by Khalil Gibran.
+                        My favorite video games include League of Legends, Terraria, and Factorio. 
+                        I would like to develop my own video game some day and participate in a game jam.
+                       """
+        );
+
+        classList.add(groberts);
+
         User cparsons = new User("Caden Parsons",
+
                 """
                         I am a senior Computer Science student here at UNCG. I work part time and i used to wrestle in high school. I also enjoy music and enjoy singing as well as gaming. 
                         I am trying to work my way to being a game developer. 
